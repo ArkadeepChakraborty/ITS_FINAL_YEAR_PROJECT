@@ -9,3 +9,5 @@ This our final year project on Intelligent Tutorial System. this is a smart e-tu
 •	Then the coming output suggestions was shown to the user in a proper format to the website.
 
 As this is our final year project, We still working on it now. Many improvements and Updates need to be done. And We also want to add Admin Dashboard, Certification in this project for its betterment.
+
+Skills: EJS(Embedded Javascript),Css(Cascading Style Sheets),Node JS,Postman API,Django,JSON(JavaScript Object Notation).
