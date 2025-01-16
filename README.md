@@ -1,3 +1,4 @@
+# Intelligent Tutorial System (ITS)
 This our final year project on Intelligent Tutorial System. this is a smart e-tutor who teaches his student based on their performance on their preliminary test and give course suggestions for themselves. After their all preparations, it takes a final exam of a student and gave a certificate based on their result. Breakdown of this project’s processes: 
 
 •	At First we created the frontend that means the website’s pages of this project using EJS (Embedded Javascript) ans Css (Cascading Style Sheets). Here User (Student) Can register themselves in the website and select his stream too. After stream selection they have to give entrance test based on this knowledge. After giving the test website creates assessment result of the student and forward it to the Python server (Django). Here user can also Update and Delete his account too.
