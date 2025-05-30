@@ -1,0 +1,950 @@
+Stream,Stream no,DifficultyNumeric,Percentage,CourseName,CourseLink,CourseVideoLink,CourseGroup,Difficulty
+IT,2,0,5,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,2,Easy
+IT,2,1,10,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Medium
+IT,2,2,15,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+IT,2,1,20,MERN,https://www.geeksforgeeks.org/mern-stack/,https://www.youtube.com/watch?v=7CqJlxBYj-M,4,Medium
+IT,2,1,25,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,1,Medium
+IT,2,2,30,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+IT,2,0,35,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,2,Easy
+IT,2,1,40,NodeJs,https://nodejs.org/en/docs,https://www.youtube.com/watch?v=TlB_eWDSMt4,4,Medium
+IT,2,1,45,Bootstrap,https://getbootstrap.com/,https://www.youtube.com/watch?v=4sosXZsdy-s,1,Medium
+IT,2,0,50,Python,https://www.python.org/about/gettingstarted/,https://www.youtube.com/watch?v=_uQrJ0TkZlc,2,Easy
+IT,2,2,55,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+IT,2,2,60,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+IT,2,1,65,Cloud Security,https://www.nevatio.com/resources/machine-design-engineering,https://youtu.be/eBgsxlwIs9o?si=fDi1oCM4_3dVwpQk,3,Medium
+IT,2,1,70,Bootstrap,https://getbootstrap.com/,https://www.youtube.com/watch?v=4sosXZsdy-s,1,Medium
+IT,2,0,75,IoT,https://en.wikipedia.org/wiki/Artificial_intelligence,https://youtu.be/vpAJ0s5S2t0?si=RaDzfqxcV3Mvmxzc,1,Easy
+IT,2,0,80,Blockchain,https://vemu.org/uploads/lecture_notes/01_02_2020_2078314921.pdf,https://www.youtube.com/watch?v=A74TOX803D0,0,Easy
+IT,2,0,85,IoT,https://www.geeksforgeeks.org/express-js/,https://youtu.be/HD13eq_Pmp8?si=rOhiMiWVl-GFv6KV,1,Easy
+IT,2,1,90,IoT,https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/,https://youtu.be/e_J9lXnU_vs?si=plhPNTbNS2RaFPL5,1,Medium
+IT,2,0,95,Big Data,https://cloud.google.com/learn/what-is-artificial-intelligence,https://youtu.be/HcOc7P5BMi4?si=FWNvGOfQ3frUlGjT,0,Easy
+IT,2,0,5,Cloud Security,https://krce.ac.in/blog/thermodynamics-and-heat-transfer-core-concepts-of-mechanical-engineering/,https://youtu.be/48SUuk8e55c?si=2aVcZldjJoVpqT70,3,Easy
+IT,2,1,10,Blockchain,https://www.electrical4u.com/electrical-engineering-articles/control-system/,https://youtu.be/WEghIXs8F6c?si=tGocPSUyTJ4caHDX,0,Medium
+IT,2,1,15,Blockchain,https://www.w3schools.com/html/html_responsive.asp,https://youtu.be/n6Ad5TvESKs?si=bsNa0z71NRJMsQXv,0,Medium
+IT,2,0,20,Big Data,https://www.geeksforgeeks.org/types-of-electric-machines/,https://youtu.be/A0BuHEqDm88?si=JkDh3T3LDT06kD_4,0,Easy
+IT,2,1,25,IoT,https://www.circuitbread.com/tutorials/introduction-to-control-systems-1.1,https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f,1,Medium
+IT,2,0,30,IoT,https://www.electrical4u.com/electrical-engineering-articles/control-system/,https://youtu.be/HcOc7P5BMi4?si=FWNvGOfQ3frUlGjT,1,Easy
+IT,2,1,40,Big Data,https://www.electrical4u.com/electrical-engineering-articles/circuit-theory/,https://youtu.be/t_ispmWmdjY?si=YLlcFavg34sDMBkN,0,Medium
+IT,2,2,50,Blockchain,https://www.tra-c.com/en/article-2/what-is-mechanical-welding/,https://youtu.be/7H_QH9nipNs?si=-GGy2oxJpd9NMrPL,0,Hard
+IT,2,1,55,Big Data,https://www.nevatio.com/resources/machine-design-engineering,https://youtu.be/44Db1Z59_eo?si=kT4RNwKknapqMpb8,0,Medium
+IT,2,1,60,Python,https://www.w3schools.com/python/python_intro.asp,https://youtu.be/UrsmFxEIp5k?si=p77Bc5Qrs2Fr59rv,1,Medium
+IT,2,0,65,IoT,https://www.geeksforgeeks.org/machine-learning/,https://youtu.be/hlGoQC332VM?si=OoGvG1t3a2hoT-wo,1,Easy
+IT,2,0,70,Graphic Design,https://www.coursera.org/graphic_design,https://youtu.be/TZ47KXK3T3J,1,Easy
+IT,2,2,75,Graphic Design,https://www.udemy.com/graphic_design,https://www.youtube.com/watch?v=MCZ49T9RFLF,1,Hard
+IT,2,2,80,Perl,https://www.tutorialspoint.com/perl/perl_introduction.htm,https://youtu.be/WEghIXs8F6c?si=tGocPSUyTJ4caHDX,1,Hard
+IT,2,2,85,SQL,https://www.w3schools.com/sql/,https://www.youtube.com/watch?v=HXV3zeQKqGY,1,Hard
+IT,2,2,90,Perl,https://www.tutorialspoint.com/perl/perl_introduction.htm,https://youtu.be/WEghIXs8F6c?si=tGocPSUyTJ4caHDX,1,Hard
+IT,2,2,95,SQL,https://www.w3schools.com/sql/,https://www.youtube.com/watch?v=HXV3zeQKqGY,1,Hard
+IT,2,0,95,Javascript,https://www.w3schools.com/js/js_syntax.asp,https://youtu.be/lfmg-EJ8gm4?si=WcV1IKKA6Ev9ryv_,4,Easy
+IT,2,0,5,C#,https://learn.microsoft.com/en-us/dotnet/csharp/,https://www.youtube.com/watch?v=GhQdlIFylQ8,1,Easy
+IT,2,2,10,Go,https://www.w3schools.com/go/go_introduction.php,https://youtu.be/yyUHQIec83I?si=scc1O2AnXDNryfdv,1,Hard
+IT,2,2,15,Ruby,https://www.tutorialspoint.com/ruby/ruby_overview.htm,https://youtu.be/t_ispmWmdjY?si=YLlcFavg34sDMBkN,1,Hard
+IT,2,0,20,C#,https://learn.microsoft.com/en-us/dotnet/csharp/,https://www.youtube.com/watch?v=GhQdlIFylQ8,1,Easy
+IT,2,2,25,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+IT,2,0,30,PHP,https://www.w3schools.com/php/php_intro.asp,https://youtu.be/OK_JCtrrv-c?si=Ca5RiZPiVHM2ScdF,1,Easy
+IT,2,2,35,Go,https://www.w3schools.com/go/go_introduction.php,https://youtu.be/yyUHQIec83I?si=scc1O2AnXDNryfdv,1,Hard
+IT,2,0,40,Python,https://www.python.org/about/gettingstarted/,https://www.youtube.com/watch?v=_uQrJ0TkZlc,2,Easy
+IT,2,0,45,PHP,https://www.w3schools.com/php/php_intro.asp,https://youtu.be/OK_JCtrrv-c?si=Ca5RiZPiVHM2ScdF,1,Easy
+IT,2,0,50,C,https://www.learn-c.org/,https://www.youtube.com/watch?v=KJgsSFOSQv0,1,Easy
+IT,2,2,55,Ruby,https://www.tutorialspoint.com/ruby/ruby_overview.htm,https://youtu.be/t_ispmWmdjY?si=YLlcFavg34sDMBkN,1,Hard
+IT,2,1,60,React,https://reactjs.org/,https://www.youtube.com/watch?v=bMknfKXIFA8,4,Medium
+IT,2,0,65,C,https://www.learn-c.org/,https://www.youtube.com/watch?v=KJgsSFOSQv0,1,Easy
+IT,2,0,70,Javascript,https://www.w3schools.com/js/js_syntax.asp,https://youtu.be/lfmg-EJ8gm4?si=WcV1IKKA6Ev9ryv_,4,Easy
+IT,2,1,75,MEAN,https://www.geeksforgeeks.org/introduction-to-mean-stack/,https://youtu.be/48SUuk8e55c?si=2aVcZldjJoVpqT70,1,Medium
+IT,2,1,80,Express,https://www.geeksforgeeks.org/express-js/,https://youtu.be/7H_QH9nipNs?si=-GGy2oxJpd9NMrPL,1,Medium
+IT,2,2,85,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+IT,2,2,90,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Hard
+IT,2,1,95,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+IT,2,2,5,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,1,Hard
+IT,2,2,10,Graphic Design,https://www.w3schools.com/graphic_design,https://youtu.be/T0GP4ZSCXR5,1,Hard
+IT,2,2,15,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+IT,2,0,20,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+IT,2,2,25,Blockchain,https://www.javatpoint.com/c-sharp-tutorial,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,0,Hard
+IT,2,0,30,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+IT,2,2,35,Big Data,https://www.geeksforgeeks.org/digital-electronics/,https://youtu.be/pWd2b-F4STw?si=XmCzv38Pp-hRKKQg,0,Hard
+IT,2,1,40,Big Data,https://en.wikipedia.org/wiki/Strength_of_materials,https://youtu.be/pWd2b-F4STw?si=XmCzv38Pp-hRKKQg,0,Medium
+IT,2,0,45,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+IT,2,0,50,Data Science,https://www.w3schools.com/data_science,https://youtu.be/TJFGCMQFN5H,0,Easy
+IT,2,2,55,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,1,Hard
+IT,2,1,60,MEAN,https://www.geeksforgeeks.org/introduction-to-mean-stack/,https://youtu.be/48SUuk8e55c?si=2aVcZldjJoVpqT70,1,Medium
+IT,2,1,65,MERN,https://www.geeksforgeeks.org/mern-stack/,https://www.youtube.com/watch?v=7CqJlxBYj-M,4,Medium
+IT,2,1,70,React,https://reactjs.org/,https://www.youtube.com/watch?v=bMknfKXIFA8,4,Medium
+IT,2,1,75,Express,https://www.geeksforgeeks.org/express-js/,https://youtu.be/7H_QH9nipNs?si=-GGy2oxJpd9NMrPL,1,Medium
+IT,2,1,80,Cloud Security,https://www.w3schools.com/go/go_introduction.php,https://youtu.be/KJgsSFOSQv0?si=b4Q0SsItgVCQqWXi,3,Medium
+IT,2,0,85,Cloud Security,https://study.madeeasy.in/subjects/what-is-power-systems/,https://youtu.be/hlGoQC332VM?si=OoGvG1t3a2hoT-wo,3,Easy
+IT,2,2,90,Big Data,https://www.slideshare.net/slideshow/artificial-intelligence-in-power-systems-46360765/46360765,https://youtu.be/yyUHQIec83I?si=scc1O2AnXDNryfdv,0,Hard
+IT,2,2,95,IoT,https://www.electrical4u.com/signals-and-systems/,https://youtu.be/SqcY0GlETPk?si=HCE7ecZk3eNf-AbD,1,Hard
+IT,2,0,5,IoT,https://www.electrical4u.com/electrical-engineering-articles/circuit-theory/,https://youtu.be/ptTpXmjxGTM?si=-uP-yPC7nAkLfrQ9,1,Easy
+IT,2,0,10,Finance,https://www.w3schools.com/finance,https://youtu.be/YLOBX85H422,1,Easy
+IT,2,2,15,Blockchain,https://www.w3schools.com/js/js_syntax.asp,https://youtu.be/aHjGcKP_7qE?si=0J0nsDY5B12_HfF-,0,Hard
+IT,2,2,20,Cloud Security,https://www.w3schools.com/html/,https://youtu.be/khbOXzEqOg4?si=k_6RInm4-2cFu6Yw,3,Hard
+IT,2,2,25,Big Data,https://www.w3schools.com/react/react_getstarted.asp,https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f,0,Hard
+IT,2,0,30,Blockchain,https://www.w3schools.com/sql/sql_intro.asp,https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C,0,Easy
+IT,2,1,35,Cloud Security,https://www.w3schools.com/nodejs/nodejs_get_started.asp,https://youtu.be/q_4RehwV5mE?si=mXAbNAG_ZJCu47Ux,3,Medium
+IT,2,2,40,Cloud Security,https://www.jntua.ac.in/gate-online-classes/registration/downloads/material/a159280334379.pdf,https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f,3,Hard
+IT,2,1,45,Blockchain,https://www.geeksforgeeks.org/mern-stack/,https://youtu.be/TlB_eWDSMt4?si=bz_84Bo_wa6s5aEN,0,Medium
+IT,2,1,50,AI & ML,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,0,Medium
+IT,2,0,55,AI & ML,https://www.mmmut.ac.in/News_content/12101dep-notice_04242021.pdf,https://youtu.be/tU3NEYe-b2U?si=MNy7sfl5ABHc1SXr,0,Easy
+IT,2,0,60,Cloud Security,https://en.wikipedia.org/wiki/Electromagnetic_field,https://youtu.be/ORyi6tTMNqE?si=f9aICh0WN9uUaDOy,3,Easy
+IT,2,1,65,Cloud Security,https://www.w3schools.com/css/,https://youtu.be/cHT-qLnRm0E?si=NMgW_OstrO4fmC82,3,Medium
+IT,2,2,70,IoT,https://www.geeksforgeeks.org/properties-of-electromagnetic-field/,https://youtu.be/bfhcaGDd5tY?si=CRJ2PwFfguS9CSzZ,1,Hard
+IT,2,2,75,Cloud Security,https://www.geeksforgeeks.org/introduction-to-mean-stack/,https://youtu.be/gfkTfcpWqAY?si=qPdBaCtmbxvJmMvm,3,Hard
+IT,2,0,80,Big Data,https://www.mmmut.ac.in/News_content/12101dep-notice_04242021.pdf,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,0,Easy
+IT,2,2,85,Blockchain,https://www.geeksforgeeks.org/introduction-to-mean-stack/,https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C,0,Hard
+IT,2,2,90,Python,https://www.w3schools.com/python/python_intro.asp,https://youtu.be/UrsmFxEIp5k?si=p77Bc5Qrs2Fr59rv,1,Hard
+IT,2,1,95,AI & ML,https://archosengineering.com/electrical-engineering-in-renewable-energy/,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,0,Medium
+IT,2,2,5,Marketing,https://www.udemy.com/marketing,https://youtu.be/FU4ABI8G4N0,1,Hard
+IT,2,1,10,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+IT,2,2,15,Blockchain,https://www.geeksforgeeks.org/power-electronics/,https://youtu.be/LKlOH8OLLcw?si=MgbJuR7GmkwMUNdS,0,Hard
+IT,2,2,20,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+IT,2,1,25,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Medium
+IT,2,0,30,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,1,Easy
+IT,2,1,35,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+IT,2,0,40,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,1,Easy
+IT,2,1,45,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+IT,2,0,50,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+IT,2,2,55,Python,https://www.w3schools.com/python/python_intro.asp,https://youtu.be/UrsmFxEIp5k?si=p77Bc5Qrs2Fr59rv,1,Hard
+IT,2,2,60,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+IT,2,1,65,AI & ML,https://www.w3schools.com/php/php_intro.asp,https://youtu.be/TPlqvCg5xJ4?si=ZYRlWavzSt1HvXF9,0,Medium
+IT,2,0,70,Data Science,https://www.coursera.org/data_science,https://youtu.be/94MQX0WC8XR,0,Easy
+IT,2,0,75,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+IT,2,1,80,Blockchain,https://www.geeksforgeeks.org/types-of-electric-machines/,https://youtu.be/-qfEOE4vtxE?si=WaKtynJ05KUqBMYF,0,Medium
+IT,2,1,85,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,1,Medium
+IT,2,1,90,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+IT,2,0,95,Data Science,https://www.coursera.org/data_science,https://www.youtube.com/watch?v=JE5UJGSCJW9,0,Easy
+IT,2,1,5,AI & ML,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/VA51cr9MStI?si=WupuLMr-Gx2THUGT,0,Medium
+IT,2,1,10,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Medium
+IT,2,0,15,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+IT,2,1,20,AI & ML,https://www.w3schools.com/css/,https://youtu.be/48SUuk8e55c?si=2aVcZldjJoVpqT70,0,Medium
+IT,2,1,25,Big Data,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/7H_QH9nipNs?si=-GGy2oxJpd9NMrPL,0,Medium
+IT,2,1,30,Blockchain,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/CX-mPjgacCE?si=XHOs1NLzEomIHzIL,0,Medium
+IT,2,1,35,AI & ML,https://en.wikipedia.org/wiki/Fluid_mechanics,https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C,0,Medium
+IT,2,2,40,Blockchain,https://www.w3schools.com/java/,https://youtu.be/x5OD2KZXd54?si=aS5TvAb9T0NtkJHf,0,Hard
+IT,2,0,45,Cloud Security,https://www.w3schools.com/bootstrap5/bootstrap_get_started.php,https://youtu.be/9ABKT9g1llA?si=UhouNCH9Io9jt7O-,3,Easy
+IT,2,1,50,NodeJs,https://nodejs.org/en/docs,https://www.youtube.com/watch?v=TlB_eWDSMt4,4,Medium
+CSE,0,2,55,ML,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/LKlOH8OLLcw?si=MgbJuR7GmkwMUNdS,0,Hard
+CSE,0,1,60,AI,https://en.wikipedia.org/wiki/Artificial_intelligence,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,1,Medium
+CSE,0,2,65,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,1,Hard
+CSE,0,2,70,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Hard
+CSE,0,2,75,AI,https://en.wikipedia.org/wiki/Artificial_intelligence,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,0,Hard
+CSE,0,2,80,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+CSE,0,1,85,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Medium
+CSE,0,2,90,ML,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/cHT-qLnRm0E?si=NMgW_OstrO4fmC82,0,Hard
+CSE,0,2,95,ML,https://www.geeksforgeeks.org/flowchart-for-basic-machine-learning-models/?ref=lbp,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,0,Hard
+CSE,0,1,5,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Medium
+CSE,0,0,10,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+CSE,0,1,15,Graphic Design,https://www.coursera.org/graphic_design,https://www.youtube.com/watch?v=9RXTU8NPURJ,1,Medium
+CSE,0,0,20,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+CSE,0,2,25,Marketing,https://www.w3schools.com/marketing,https://www.youtube.com/watch?v=2IDUQXJA098,1,Hard
+CSE,0,0,30,ML,https://www.geeksforgeeks.org/machine-learning/,https://youtu.be/ukzFI9rgwfU?si=Q8fIkwWupfXmzXRe,0,Easy
+CSE,0,2,35,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,1,Hard
+CSE,0,0,40,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,1,Easy
+CSE,0,1,45,Data Science,https://www.w3schools.com/data_science,https://www.youtube.com/watch?v=K3IHRK0XF1I,0,Medium
+CSE,0,0,50,Python,https://www.w3schools.com/python/python_intro.asp,https://youtu.be/UrsmFxEIp5k?si=p77Bc5Qrs2Fr59rv,1,Easy
+CSE,0,0,55,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+CSE,0,0,60,HTML5,https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5,https://www.youtube.com/watch?v=UB1O30fR-EE,4,Easy
+CSE,0,0,65,Cryptography,https://kahedu.edu.in/how-does-mechanical-engineering-drive-innovation-in-renewable-energy-technologies/,https://youtu.be/XZwBNDGuWGU?si=BvSLKgjLVXR-Mo_K,1,Easy
+CSE,0,0,70,AI,https://cloud.google.com/learn/what-is-artificial-intelligence,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,1,Easy
+CSE,0,0,75,Game Development,https://www.iqsdirectory.com/articles/hydraulics/difference-between-hydraulics-and-pneumatics.html,https://youtu.be/XZwBNDGuWGU?si=BvSLKgjLVXR-Mo_K,1,Easy
+CSE,0,1,80,AI,https://cloud.google.com/learn/what-is-artificial-intelligence,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,0,Medium
+CSE,0,2,85,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+CSE,0,1,90,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Medium
+CSE,0,2,95,ML,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/cHT-qLnRm0E?si=NMgW_OstrO4fmC82,0,Hard
+CSE,0,0,5,Marketing,https://www.coursera.org/marketing,https://youtu.be/1DYAJAS1OHA,1,Easy
+CSE,0,1,10,Software Testing,https://www.javatpoint.com/c-sharp-tutorial,https://youtu.be/SqcY0GlETPk?si=HCE7ecZk3eNf-AbD,1,Medium
+CSE,0,0,15,Finance,https://www.w3schools.com/finance,https://youtu.be/E4BT8WX678U,1,Easy
+CSE,0,0,20,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+CSE,0,2,25,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Hard
+CSE,0,2,30,Mechanical Engineering,https://www.coursera.org/mechanical_engineering,https://youtu.be/ONQWVNXXN1A,1,Hard
+CSE,0,0,35,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+CSE,0,2,40,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Hard
+CSE,0,2,45,ML,https://www.geeksforgeeks.org/flowchart-for-basic-machine-learning-models/?ref=lbp,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,1,Hard
+CSE,0,1,50,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Medium
+CSE,0,0,55,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+CSE,0,1,60,AI,https://cloud.google.com/learn/what-is-artificial-intelligence,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,0,Medium
+CSE,0,1,65,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Medium
+CSE,0,2,70,AI,https://en.wikipedia.org/wiki/Artificial_intelligence,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,0,Hard
+CSE,0,2,75,ML,https://www.geeksforgeeks.org/flowchart-for-basic-machine-learning-models/?ref=lbp,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,0,Hard
+CSE,0,2,80,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+CSE,0,2,85,ML,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/LKlOH8OLLcw?si=MgbJuR7GmkwMUNdS,0,Hard
+CSE,0,2,90,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+CSE,0,0,95,ML,https://www.geeksforgeeks.org/machine-learning/,https://youtu.be/ukzFI9rgwfU?si=Q8fIkwWupfXmzXRe,0,Easy
+CSE,0,0,5,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+CSE,0,0,10,Bootstrap,https://getbootstrap.com/,https://www.youtube.com/watch?v=4sosXZsdy-s,1,Easy
+CSE,0,1,15,Data Science,https://www.coursera.org/data_science,https://www.youtube.com/watch?v=FICX8H7J91C,0,Medium
+CSE,0,0,20,Bootstrap,https://getbootstrap.com/,https://www.youtube.com/watch?v=4sosXZsdy-s,1,Easy
+CSE,0,1,25,Graphic Design,https://www.w3schools.com/graphic_design,https://www.youtube.com/watch?v=BD3OQHCHWI3,1,Medium
+CSE,0,0,30,HTML5,https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5,https://www.youtube.com/watch?v=UB1O30fR-EE,4,Easy
+CSE,0,2,35,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,1,Hard
+CSE,0,0,40,Data Science,https://www.coursera.org/data_science,https://youtu.be/HG5MUPLLVU2,0,Easy
+CSE,0,2,45,Graphic Design,https://www.udemy.com/graphic_design,https://www.youtube.com/watch?v=3U34ETCU08H,1,Hard
+CSE,0,2,50,Software Testing,https://www.aboutmech.com/2016/03/thermodynamics.html,https://www.youtube.com/live/3NdEjPxl39s?si=JcPwFSCt5_NGO_N0 8,1,Hard
+CSE,0,1,55,Software Testing,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/KJgsSFOSQv0?si=b4Q0SsItgVCQqWXi,1,Medium
+CSE,0,1,60,Cryptography,https://www.tutorialspoint.com/power_system_analysis/power_system_analysis_overview.htm,https://youtu.be/TlB_eWDSMt4?si=bz_84Bo_wa6s5aEN,1,Medium
+CSE,0,1,65,Software Testing,https://en.wikipedia.org/wiki/Power_engineering,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,1,Medium
+CSE,0,0,70,Game Development,https://www.tutorialspoint.com/ruby/ruby_overview.htm,https://youtu.be/KUQgQFMY9XQ?si=1kK6HFC-grLg3Lnc,1,Easy
+CSE,0,1,75,Game Development,https://www.w3schools.com/css/css_rwd_intro.asp,https://youtu.be/DDWNjdQsrq4?si=_zVYj0Ref-OR9KHf,1,Medium
+CSE,0,2,80,Software Testing,https://nexflow.com/blog/difference-between-pneumatics-and-hydraulics/,https://youtu.be/-qfEOE4vtxE?si=WaKtynJ05KUqBMYF,1,Hard
+CSE,0,1,85,Game Development,https://www.w3schools.com/css/css_rwd_intro.asp,https://www.youtube.com/watch?v=XKHEtdqhLK8,1,Medium
+CSE,0,1,90,Game Development,https://testbook.com/physics/electronic-communication-systems,https://youtu.be/lfmg-EJ8gm4?si=WcV1IKKA6Ev9ryv_,1,Medium
+CSE,0,2,95,Computer Architecture,https://www.w3schools.com/js/js_syntax.asp,https://youtu.be/TPlqvCg5xJ4?si=ZYRlWavzSt1HvXF9,1,Hard
+CSE,0,1,5,Computer Architecture,https://en.wikipedia.org/wiki/Fluid_mechanics,https://www.youtube.com/watch?v=A74TOX803D0,1,Medium
+CSE,0,0,10,Game Development,https://s3da-design.com/everything-you-need-to-know-about-instrumentation-and-electrical-engineering-services/,https://youtu.be/wRNinF7YQqQ?si=UsB209SOkSL0Dmhb,1,Easy
+CSE,0,1,15,Computer Architecture,https://mechanicalc.com/reference/strength-of-materials,https://youtu.be/XKHEtdqhLK8,1,Medium
+CSE,0,2,20,Data Structures,https://www.w3schools.com/html/html5_geolocation.asp,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,0,Hard
+CSE,0,0,25,Computer Architecture,https://www.w3schools.com/sql/sql_intro.asp,https://youtu.be/iUEjQQtrT50?si=TRrHQl45TDCQDPDI,1,Easy
+CSE,0,1,30,Data Structures,https://en.wikipedia.org/wiki/Artificial_intelligence,https://youtu.be/7iOZ0D2NqYA?si=ROa_D8olgbjw5jyf,0,Medium
+CSE,0,1,35,Marketing,https://www.udemy.com/marketing,https://www.youtube.com/watch?v=3H0GMEK7YDG,1,Medium
+CSE,0,1,40,Computer Architecture,https://mechanicalc.com/reference/strength-of-materials,https://youtu.be/OK_JCtrrv-c?si=Ca5RiZPiVHM2ScdF,1,Medium
+CSE,0,1,45,Game Development,https://en.wikipedia.org/wiki/Strength_of_materials,https://youtu.be/n6Ad5TvESKs?si=bsNa0z71NRJMsQXv,1,Medium
+CSE,0,1,50,Game Development,https://www.w3schools.com/html/,https://youtu.be/gfkTfcpWqAY?si=qPdBaCtmbxvJmMvm,1,Medium
+CSE,0,1,55,Software Testing,https://www.geeksforgeeks.org/python-ways-to-find-length-of-list/,https://youtu.be/og0Utz4DjFs?si=G9FsQqj_p4p69rOg,1,Medium
+CSE,0,1,60,Game Development,https://www.w3schools.com/html/,https://youtu.be/Wy5oY9nINz8?si=F9evRlJ9tM2ysovE,1,Medium
+CSE,0,0,65,Computer Architecture,https://www.tutorialspoint.com/control_system/control_system_overview.htm,https://youtu.be/lfmg-EJ8gm4?si=WcV1IKKA6Ev9ryv_,1,Easy
+CSE,0,2,70,Data Structures,https://www.adda247.com/engineering-jobs/ic-engine/,https://youtu.be/Z1crLo7KyH8?si=2CydZFNvY920B-f2,0,Hard
+CSE,0,1,75,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Medium
+CSE,0,0,80,Data Structures,https://www.w3schools.com/html/html_scripts.asp,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,0,Easy
+CSE,0,1,85,Data Structures,https://en.wikipedia.org/wiki/Internal_combustion_engine,https://youtu.be/BPMd9nC_KWo?si=zFoX1KrloHuUjJaM,0,Medium
+CSE,0,0,90,Cryptography,https://www.electrical4u.com/electrical-engineering-articles/digital-electronics/,https://youtu.be/HcOc7P5BMi4?si=FWNvGOfQ3frUlGjT,1,Easy
+CSE,0,1,95,Computer Architecture,https://www.w3schools.com/html/,https://youtu.be/Vd2UJiIPbag?si=qnnoYuXowmL7YKbp,1,Medium
+CSE,0,1,5,Game Development,https://www.w3schools.com/bootstrap5/bootstrap_get_started.php,https://youtu.be/_Ypb9_Ok3W8?si=PylRRt7w_E20qphI,1,Medium
+CSE,0,0,10,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+CSE,0,0,15,Computer Architecture,https://www.geeksforgeeks.org/flowchart-for-basic-machine-learning-models/?ref=lbp,https://youtu.be/8CP714_wKVk?si=CA8Xabcs6y6U-EnG,1,Easy
+CSE,0,2,20,Computer Architecture,https://kahedu.edu.in/how-does-mechanical-engineering-drive-innovation-in-renewable-energy-technologies/,https://youtu.be/q_4RehwV5mE?si=mXAbNAG_ZJCu47Ux,1,Hard
+CSE,0,1,25,Data Science,https://www.w3schools.com/data_science,https://www.youtube.com/watch?v=BHCXZ14Q9DR,0,Medium
+CSE,0,1,30,Cryptography,https://www.geeksforgeeks.org/python-ways-to-find-length-of-list/,https://youtu.be/ukzFI9rgwfU?si=Q8fIkwWupfXmzXRe,1,Medium
+CSE,0,0,35,Data Structures,https://www.geeksforgeeks.org/machine-learning/,https://www.youtube.com/live/zeSEFsR-jZA?si=6RSz5adyZHQS0K4c,0,Easy
+CSE,0,0,40,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+CSE,0,1,45,Cryptography,https://en.wikipedia.org/wiki/Electronic_engineering,https://youtu.be/ORyi6tTMNqE?si=f9aICh0WN9uUaDOy,1,Medium
+CSE,0,1,50,Data Science,https://www.w3schools.com/data_science,https://youtu.be/K831CS46ZXN,0,Medium
+CSE,0,2,55,Game Development,https://www.geeksforgeeks.org/flowchart-for-basic-machine-learning-models/?ref=lbp,https://youtu.be/tU3NEYe-b2U?si=MNy7sfl5ABHc1SXr,1,Hard
+CSE,0,0,60,Game Development,https://www.circuitbread.com/tutorials/introduction-to-control-systems-1.1,https://youtu.be/HcOc7P5BMi4?si=FWNvGOfQ3frUlGjT,1,Easy
+CSE,0,1,65,Software Testing,https://www.jntua.ac.in/gate-online-classes/registration/downloads/material/a159280334379.pdf,https://youtu.be/PFSQRMus_QQ?si=suK5fdzEJQeVyWQ7,1,Medium
+CSE,0,0,70,Computer Architecture,https://www.tutorialspoint.com/signal_processing/signal_processing_overview.htm,https://youtu.be/WEghIXs8F6c?si=tGocPSUyTJ4caHDX,1,Easy
+CSE,0,2,75,Data Structures,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/WEghIXs8F6c?si=tGocPSUyTJ4caHDX,0,Hard
+CSE,0,2,80,Cryptography,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/bfhcaGDd5tY?si=CRJ2PwFfguS9CSzZ,1,Hard
+CSE,0,0,85,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+CSE,0,1,90,Computer Architecture,https://www.geeksforgeeks.org/power-electronics/,https://youtu.be/BPMd9nC_KWo?si=zFoX1KrloHuUjJaM,1,Medium
+CSE,0,1,95,Computer Architecture,https://cloud.google.com/learn/what-is-artificial-intelligence,https://youtu.be/OK_JCtrrv-c?si=Ca5RiZPiVHM2ScdF,1,Medium
+CSE,0,1,5,Data Structures,https://www.geeksforgeeks.org/mern-stack/,https://youtu.be/8CP714_wKVk?si=CA8Xabcs6y6U-EnG,0,Medium
+CSE,0,2,10,Computer Architecture,https://www.w3schools.com/html/html5_geolocation.asp,https://youtu.be/cHT-qLnRm0E?si=NMgW_OstrO4fmC82,1,Hard
+CSE,0,0,15,Data Structures,https://www.aboutmech.com/2016/03/thermodynamics.html,https://youtu.be/DDWNjdQsrq4?si=_zVYj0Ref-OR9KHf,0,Easy
+CSE,0,0,20,Data Structures,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/DDWNjdQsrq4?si=_zVYj0Ref-OR9KHf,0,Easy
+CSE,0,1,25,Graphic Design,https://www.w3schools.com/graphic_design,https://www.youtube.com/watch?v=XE6ABCE9AH3,1,Medium
+CSE,0,1,30,Computer Architecture,https://www.discoverengineering.org/material-science-an-integral-part-of-mechanical-engineering/,https://youtu.be/CX-mPjgacCE?si=XHOs1NLzEomIHzIL,1,Medium
+CSE,0,2,35,Python,https://www.w3schools.com/python/python_intro.asp,https://youtu.be/UrsmFxEIp5k?si=p77Bc5Qrs2Fr59rv,1,Hard
+CSE,0,2,40,HTML5,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,1,Hard
+CSE,0,2,45,Data Structures,https://www.w3schools.com/css/,https://youtu.be/wRNinF7YQqQ?si=UsB209SOkSL0Dmhb,0,Hard
+ECE,1,0,50,Marketing,https://www.w3schools.com/marketing,https://www.youtube.com/watch?v=NDYMHOM4HAM,1,Easy
+ECE,1,0,55,Electromagnetic fields,https://en.wikipedia.org/wiki/Electromagnetic_field,https://youtu.be/q_4RehwV5mE?si=mXAbNAG_ZJCu47Ux,1,Easy
+ECE,1,1,60,Digital Electronics,https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/,https://youtu.be/YmKmS9bpMqM?si=_W36JAAVt-lRDHYt,1,Medium
+ECE,1,0,65,Circuit Theory,https://www.electrical4u.com/electrical-engineering-articles/circuit-theory/,https://www.youtube.com/live/3NdEjPxl39s?si=JcPwFSCt5_NGO_N0,1,Easy
+ECE,1,1,70,Artificial Intelligence in Power Systems,https://www.slideshare.net/slideshow/artificial-intelligence-in-power-systems-46360765/46360765,https://youtu.be/6c1Oo0Up08E?si=CxxBFTP0MQa_7HM9,1,Medium
+ECE,1,2,75,Data Science,https://www.w3schools.com/data_science,https://youtu.be/ZQDOYG98XD8,0,Hard
+ECE,1,0,80,Power Systems,https://en.wikipedia.org/wiki/Power_engineering,https://youtu.be/pWd2b-F4STw?si=XmCzv38Pp-hRKKQg,1,Easy
+ECE,1,0,85,Data Science,https://www.udemy.com/data_science,https://www.youtube.com/watch?v=YRX482UM183,0,Easy
+ECE,1,0,90,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Easy
+ECE,1,0,95,Graphic Design,https://www.udemy.com/graphic_design,https://www.youtube.com/watch?v=6G2U2RN436J,1,Easy
+ECE,1,1,5,Renewable Energy Systems,https://archosengineering.com/electrical-engineering-in-renewable-energy/,https://youtu.be/aHjGcKP_7qE?si=0J0nsDY5B12_HfF-,1,Medium
+ECE,1,0,10,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+ECE,1,0,15,Power Systems,https://study.madeeasy.in/subjects/what-is-power-systems/,https://www.youtube.com/live/zeSEFsR-jZA?si=6RSz5adyZHQS0K4c,1,Easy
+ECE,1,2,20,Control Systems,https://www.electrical4u.com/electrical-engineering-articles/control-system/,https://youtu.be/9ABKT9g1llA?si=UhouNCH9Io9jt7O-,1,Hard
+ECE,1,1,25,Communication Systems,https://testbook.com/physics/electronic-communication-systems,https://youtu.be/VA51cr9MStI?si=WupuLMr-Gx2THUGT,1,Medium
+ECE,1,0,30,Electromagnetic fields,https://www.geeksforgeeks.org/properties-of-electromagnetic-field/,https://youtu.be/45yUvnMvTUo?si=sXH9yV-raYBcN9jB,1,Easy
+ECE,1,2,35,Instrumentation,https://s3da-design.com/everything-you-need-to-know-about-instrumentation-and-electrical-engineering-services/,https://youtu.be/og0Utz4DjFs?si=G9FsQqQshZVamWfx,1,Hard
+ECE,1,2,40,Control Systems,https://www.electrical4u.com/electrical-engineering-articles/control-system/,https://youtu.be/9ABKT9g1llA?si=UhouNCH9Io9jt7O-,1,Hard
+ECE,1,1,45,Communication Systems,https://www.geeksforgeeks.org/communication-systems/,https://youtu.be/Y0xGmQKcvwE?si=biXaFu5wpp5tV4Xv,1,Medium
+ECE,1,0,50,Graphic Design,https://www.coursera.org/graphic_design,https://www.youtube.com/watch?v=GM0PVSRRMRW,1,Easy
+ECE,1,1,55,Signals and Systems,https://www.electrical4u.com/signals-and-systems/,https://youtu.be/7iOZ0D2NqYA?si=ROa_D8olgbjw5jyf,1,Medium
+ECE,1,2,60,Wireless Communication,https://www.electrical4u.com/electrical-engineering-articles/circuit-theory/,https://youtu.be/t_ispmWmdjY?si=YLlcFavg34sDMBkN,1,Hard
+ECE,1,2,65,Radar Systems,https://www.electrical4u.com/electrical-engineering-articles/control-system/,https://youtu.be/HcOc7P5BMi4?si=FWNvGOfQ3frUlGjT,1,Hard
+ECE,1,2,70,Control Systems,https://www.geeksforgeeks.org/types-of-electric-machines/,https://youtu.be/A0BuHEqDm88?si=JkDh3T3LDT06kD_4,1,Hard
+ECE,1,2,75,Control Systems,https://en.wikipedia.org/wiki/Artificial_intelligence,https://youtu.be/vpAJ0s5S2t0?si=RaDzfqxcV3Mvmxzc,1,Hard
+ECE,1,1,80,Control Systems,https://www.w3schools.com/html/html_responsive.asp,https://youtu.be/n6Ad5TvESKs?si=bsNa0z71NRJMsQXv,1,Medium
+ECE,1,2,85,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Hard
+ECE,1,1,90,Digital Electronics,https://www.electrical4u.com/electrical-engineering-articles/digital-electronics/,https://youtu.be/e_J9lXnU_vs?si=plhPNTbNS2RaFPL5,1,Medium
+ECE,1,2,95,Graphic Design,https://www.w3schools.com/graphic_design,https://youtu.be/9CUXBYG8GI5,1,Hard
+ECE,1,2,5,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Hard
+ECE,1,0,10,Python,https://www.w3schools.com/python/python_intro.asp,https://youtu.be/UrsmFxEIp5k?si=p77Bc5Qrs2Fr59rv,1,Easy
+ECE,1,2,15,Power Electronics,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/_Ypb9_Ok3W8?si=PylRRt7w_E20qphI,1,Hard
+ECE,1,1,20,Optical Networks,https://www.electrical4u.com/electrical-engineering-articles/control-system/,https://youtu.be/WEghIXs8F6c?si=tGocPSUyTJ4caHDX,3,Medium
+ECE,1,2,25,Finance,https://www.coursera.org/finance,https://www.youtube.com/watch?v=AJI3UJHNVVU,1,Hard
+ECE,1,1,30,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,1,Medium
+ECE,1,0,35,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+ECE,1,2,40,Control Systems,https://www.circuitbread.com/tutorials/introduction-to-control-systems-1.1,https://youtu.be/PFSQRMus_QQ?si=suK5fdzEJQeVyWQ7,1,Hard
+ECE,1,2,45,Electronics,https://en.wikipedia.org/wiki/Electronic_engineering,https://youtu.be/Vd2UJiIPbag?si=qnnoYuXowmL7YKbp,1,Hard
+ECE,1,0,50,Electrical Machines,https://www.geeksforgeeks.org/types-of-electric-machines/,https://youtu.be/PmBqB-4hgW4?si=Bpt-eXSXcBpVkwbY,1,Easy
+ECE,1,0,55,Circuit Theory,https://www.electrical4u.com/electrical-engineering-articles/circuit-theory/,https://www.youtube.com/live/3NdEjPxl39s?si=JcPwFSCt5_NGO_N0 8,1,Easy
+ECE,1,0,60,Power Systems,https://study.madeeasy.in/subjects/what-is-power-systems/,https://www.youtube.com/live/zeSEFsR-jZA?si=6RSz5adyZHQS0K4c,1,Easy
+ECE,1,0,65,Electromagnetic fields,https://en.wikipedia.org/wiki/Electromagnetic_field,https://youtu.be/q_4RehwV5mE?si=mXAbNAG_ZJCu47Ux,1,Easy
+ECE,1,2,70,Marketing,https://www.udemy.com/marketing,https://youtu.be/XU3P2GXTH55,1,Hard
+ECE,1,0,75,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+ECE,1,0,80,Power Systems,https://en.wikipedia.org/wiki/Power_engineering,https://youtu.be/pWd2b-F4STw?si=XmCzv38Pp-hRKKQg,1,Easy
+ECE,1,2,85,Power Electronics,https://www.geeksforgeeks.org/power-electronics/,https://youtu.be/ptTpXmjxGTM?si=-uP-yPC7nAkLfrQ9,1,Hard
+ECE,1,0,90,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+ECE,1,2,95,Power Electronics,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/_Ypb9_Ok3W8?si=PylRRt7w_E20qphI,1,Hard
+ECE,1,2,5,Power Electronics,https://www.geeksforgeeks.org/power-electronics/,https://youtu.be/ptTpXmjxGTM?si=-uP-yPC7nAkLfrQ9,1,Hard
+ECE,1,2,10,Control Systems,https://www.circuitbread.com/tutorials/introduction-to-control-systems-1.1,https://youtu.be/PFSQRMus_QQ?si=suK5fdzEJQeVyWQ7,1,Hard
+ECE,1,0,15,Electromagnetic fields,https://www.geeksforgeeks.org/properties-of-electromagnetic-field/,https://youtu.be/45yUvnMvTUo?si=sXH9yV-raYBcN9jB,1,Easy
+ECE,1,0,20,Electrical Machines,https://www.geeksforgeeks.org/types-of-electric-machines/,https://youtu.be/PmBqB-4hgW4?si=Bpt-eXSXcBpVkwbY,1,Easy
+ECE,1,1,25,Artificial Intelligence in Power Systems,https://academic.oup.com/ce/article/7/6/1199/7425141,https://youtu.be/KUQgQFMY9XQ?si=1kK6HFC-grLg3Lnc,1,Medium
+ECE,1,0,30,Python,https://www.w3schools.com/python/python_intro.asp,https://youtu.be/UrsmFxEIp5k?si=p77Bc5Qrs2Fr59rv,1,Easy
+ECE,1,1,35,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+ECE,1,2,40,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+ECE,1,2,45,Instrumentation,https://s3da-design.com/everything-you-need-to-know-about-instrumentation-and-electrical-engineering-services/,https://youtu.be/og0Utz4DjFs?si=G9FsQqj_p4p69rOg,1,Hard
+ECE,1,2,50,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Hard
+ECE,1,1,55,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,1,Medium
+ECE,1,0,60,Radar Systems,https://www.tra-c.com/en/article-2/what-is-mechanical-welding/,https://youtu.be/7H_QH9nipNs?si=-GGy2oxJpd9NMrPL,1,Easy
+ECE,1,2,65,Optical Networks,https://www.w3schools.com/bootstrap5/bootstrap_get_started.php,https://youtu.be/9ABKT9g1llA?si=UhouNCH9Io9jt7O-,3,Hard
+ECE,1,1,70,Control Systems,https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/,https://youtu.be/e_J9lXnU_vs?si=plhPNTbNS2RaFPL5,1,Medium
+ECE,1,0,75,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+ECE,1,0,80,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+ECE,1,1,85,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+ECE,1,0,90,Python,https://www.w3schools.com/python/python_intro.asp,https://youtu.be/UrsmFxEIp5k?si=p77Bc5Qrs2Fr59rv,1,Easy
+ECE,1,2,95,Python,https://www.w3schools.com/python/python_intro.asp,https://youtu.be/UrsmFxEIp5k?si=p77Bc5Qrs2Fr59rv,1,Hard
+ECE,1,0,5,Signal Processing,https://www.tutorialspoint.com/signal_processing/signal_processing_overview.htm,https://youtu.be/eBgsxlwIs9o?si=fDi1oCM4_3dVwpQk,1,Easy
+ECE,1,1,10,Signal Processing,https://www.tutorialspoint.com/signal_processing/signal_processing_overview.htm,https://youtu.be/eBgsxlwIs9o?si=fDi1oCM4_3dVwpQk,1,Medium
+ECE,1,1,15,Control Theory,https://www.tutorialspoint.com/control_system/control_system_overview.htm,https://youtu.be/h6yP0hgVXU8?si=mQwH-d83Jwd6tqFS,1,Medium
+ECE,1,1,20,Power Systems,https://www.tutorialspoint.com/power_system_analysis/power_system_analysis_overview.htm,https://youtu.be/khbOXzEqOg4?si=k_6RInm4-2cFu6Yw,1,Medium
+ECE,1,0,25,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Easy
+ECE,1,2,30,Control Systems,https://www.w3schools.com/java/,https://youtu.be/x5OD2KZXd54?si=aS5TvAb9T0NtkJHf,1,Hard
+ECE,1,1,35,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Medium
+ECE,1,1,40,Marketing,https://www.coursera.org/marketing,https://youtu.be/3OCT2GVN3TY,1,Medium
+ECE,1,2,45,Radar Systems,https://www.w3schools.com/sql/sql_intro.asp,https://youtu.be/iUEjQQtrT50?si=TRrHQl45TDCQDPDI,1,Hard
+ECE,1,2,50,Optical Networks,https://www.w3schools.com/html/html5_geolocation.asp,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,3,Hard
+ECE,1,0,55,Optical Networks,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/KJgsSFOSQv0?si=b4Q0SsItgVCQqWXi,3,Easy
+ECE,1,1,60,Analog Circuits,https://mechanicalc.com/reference/strength-of-materials,https://youtu.be/XKHEtdqhLK8,1,Medium
+ECE,1,2,65,Optical Networks,https://s3da-design.com/everything-you-need-to-know-about-instrumentation-and-electrical-engineering-services/,https://youtu.be/wRNinF7YQqQ?si=UsB209SOkSL0Dmhb,3,Hard
+ECE,1,2,70,Radar Systems,https://en.wikipedia.org/wiki/Fluid_mechanics,https://www.youtube.com/watch?v=A74TOX803D0,1,Hard
+ECE,1,0,75,Finance,https://www.coursera.org/finance,https://youtu.be/XCRBGCPZBE8,1,Easy
+ECE,1,0,80,Optical Networks,https://testbook.com/physics/electronic-communication-systems,https://youtu.be/lfmg-EJ8gm4?si=WcV1IKKA6Ev9ryv_,3,Easy
+ECE,1,1,85,Analog Circuits,https://www.w3schools.com/css/css_rwd_intro.asp,https://www.youtube.com/watch?v=XKHEtdqhLK8,1,Medium
+ECE,1,1,90,Optical Networks,https://nexflow.com/blog/difference-between-pneumatics-and-hydraulics/,https://youtu.be/-qfEOE4vtxE?si=WaKtynJ05KUqBMYF,3,Medium
+ECE,1,2,95,Analog Circuits,https://www.w3schools.com/bootstrap5/bootstrap_get_started.php,https://youtu.be/_Ypb9_Ok3W8?si=PylRRt7w_E20qphI,1,Hard
+ECE,1,0,5,Optical Networks,https://www.w3schools.com/css/css_rwd_intro.asp,https://youtu.be/DDWNjdQsrq4?si=_zVYj0Ref-OR9KHf,3,Easy
+ECE,1,2,10,Analog Circuits,https://www.tutorialspoint.com/ruby/ruby_overview.htm,https://youtu.be/KUQgQFMY9XQ?si=1kK6HFC-grLg3Lnc,1,Hard
+ECE,1,2,15,Analog Circuits,https://en.wikipedia.org/wiki/Power_engineering,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,1,Hard
+ECE,1,2,20,Graphic Design,https://www.coursera.org/graphic_design,https://www.youtube.com/watch?v=ZKTZXQS2HW2,1,Hard
+ECE,1,0,25,Analog Circuits,https://krce.ac.in/blog/thermodynamics-and-heat-transfer-core-concepts-of-mechanical-engineering/,https://youtu.be/48SUuk8e55c?si=2aVcZldjJoVpqT70,1,Easy
+ECE,1,1,30,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Medium
+ECE,1,2,35,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+ECE,1,2,40,Control Systems,https://www.geeksforgeeks.org/express-js/,https://youtu.be/HD13eq_Pmp8?si=rOhiMiWVl-GFv6KV,1,Hard
+ECE,1,1,45,Analog Circuits,https://vemu.org/uploads/lecture_notes/01_02_2020_2078314921.pdf,https://www.youtube.com/watch?v=A74TOX803D0,1,Medium
+ECE,1,0,50,Analog Circuits,https://www.geeksforgeeks.org/digital-electronics/,https://youtu.be/pWd2b-F4STw?si=XmCzv38Pp-hRKKQg,1,Easy
+ECE,1,2,55,Wireless Communication,https://www.circuitbread.com/tutorials/introduction-to-control-systems-1.1,https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f,1,Hard
+ECE,1,1,60,Radar Systems,https://www.geeksforgeeks.org/power-electronics/,https://youtu.be/LKlOH8OLLcw?si=MgbJuR7GmkwMUNdS,1,Medium
+ECE,1,2,65,Wireless Communication,https://cloud.google.com/learn/what-is-artificial-intelligence,https://youtu.be/HcOc7P5BMi4?si=FWNvGOfQ3frUlGjT,1,Hard
+ECE,1,1,70,Analog Circuits,https://www.w3schools.com/php/php_intro.asp,https://youtu.be/TPlqvCg5xJ4?si=ZYRlWavzSt1HvXF9,1,Medium
+ECE,1,1,75,Control Systems,https://www.nevatio.com/resources/machine-design-engineering,https://youtu.be/44Db1Z59_eo?si=kT4RNwKknapqMpb8,1,Medium
+ECE,1,0,80,Radar Systems,https://www.javatpoint.com/c-sharp-tutorial,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,1,Easy
+ECE,1,0,85,Analog Circuits,https://www.jntua.ac.in/gate-online-classes/registration/downloads/material/a159280334379.pdf,https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f,1,Easy
+ECE,1,0,90,Optical Networks,https://www.electrical4u.com/signals-and-systems/,https://youtu.be/SqcY0GlETPk?si=HCE7ecZk3eNf-AbD,3,Easy
+ECE,1,1,95,Radar Systems,https://www.w3schools.com/nodejs/nodejs_get_started.asp,https://youtu.be/q_4RehwV5mE?si=mXAbNAG_ZJCu47Ux,1,Medium
+ECE,1,1,5,Control Systems,https://www.w3schools.com/sql/sql_intro.asp,https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C,1,Medium
+ECE,1,2,10,Control Systems,https://www.w3schools.com/react/react_getstarted.asp,https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f,1,Hard
+ECE,1,1,15,Wireless Communication,https://www.w3schools.com/html/,https://youtu.be/khbOXzEqOg4?si=k_6RInm4-2cFu6Yw,1,Medium
+ECE,1,0,20,Analog Circuits,https://www.geeksforgeeks.org/machine-learning/,https://youtu.be/hlGoQC332VM?si=OoGvG1t3a2hoT-wo,1,Easy
+ECE,1,2,25,Optical Networks,https://www.geeksforgeeks.org/introduction-to-mean-stack/,https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C,3,Hard
+ECE,1,0,30,Control Systems,https://www.electrical4u.com/electrical-engineering-articles/circuit-theory/,https://youtu.be/ptTpXmjxGTM?si=-uP-yPC7nAkLfrQ9,1,Easy
+ECE,1,1,35,Radar Systems,https://www.slideshare.net/slideshow/artificial-intelligence-in-power-systems-46360765/46360765,https://youtu.be/yyUHQIec83I?si=scc1O2AnXDNryfdv,1,Medium
+ECE,1,1,40,Optical Networks,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/7H_QH9nipNs?si=-GGy2oxJpd9NMrPL,3,Medium
+ECE,1,2,45,Control Systems,https://www.geeksforgeeks.org/types-of-electric-machines/,https://youtu.be/-qfEOE4vtxE?si=WaKtynJ05KUqBMYF,1,Hard
+ECE,1,1,50,Control Systems,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/CX-mPjgacCE?si=XHOs1NLzEomIHzIL,1,Medium
+ECE,1,2,55,Analog Circuits,https://www.geeksforgeeks.org/properties-of-electromagnetic-field/,https://youtu.be/bfhcaGDd5tY?si=CRJ2PwFfguS9CSzZ,1,Hard
+ECE,1,0,60,Radar Systems,https://www.w3schools.com/js/js_syntax.asp,https://youtu.be/aHjGcKP_7qE?si=0J0nsDY5B12_HfF-,1,Easy
+ECE,1,1,65,Digital Electronics,https://www.geeksforgeeks.org/digital-electronics/,https://youtu.be/Wy5oY9nINz8?si=F9evRlJ9tM2ysovE,1,Medium
+ECE,1,2,70,Optical Networks,https://en.wikipedia.org/wiki/Fluid_mechanics,https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C,3,Hard
+ECE,1,0,75,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+ECE,1,0,80,Graphic Design,https://www.coursera.org/graphic_design,https://youtu.be/XBY1MO1PXYO,1,Easy
+ECE,1,2,85,Electronics,https://en.wikipedia.org/wiki/Electronic_engineering,https://youtu.be/Vd2UJiIPbag?si=qnnoYuXowmL7YKbp,1,Hard
+ECE,1,1,90,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Medium
+ECE,1,2,95,Internet of Things (IoT),https://www.coursera.org/learn/internet-of-things-(iot),https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S2dcI,1,Hard
+ECE,1,2,5,Data Communication,https://www.coursera.org/learn/data-communication,https://youtube.com/playlist?list=PLZQgf2pQtimlhO3UY6UJzIC7JVBzSbXXQ&si=jGhEfT-pffVTE9z5,0,Hard
+ECE,1,2,10,Biomedical Instrumentation,https://www.coursera.org/learn/biomedical-instrumentation,https://youtu.be/JTSU3CHbUBY?list=PLm_MSClsnwm-kjSqlfwaEhKwfnnfLUUBM&t=5,1,Hard
+ECE,1,2,15,Optical Fiber Communication,https://www.coursera.org/learn/optical-fiber-communication,https://youtu.be/seHmi6AMWy4?list=PLHj96QRJ0kOhH8xoXXrOgkMf9ZOvjhqYl&t=1,1,Hard
+ECE,1,2,20,Automotive Electronics,https://www.coursera.org/learn/automotive-electronics,https://youtu.be/tyP97QbrsEI?list=PLAMZfGOiiA2NYHfC2tUIJVRLWf6dTEP0I,1,Hard
+ECE,1,2,25,Microcontrollers and Applications,https://www.coursera.org/learn/microcontrollers-and-applications,https://youtube.com/playlist?list=PLZQgf2pQtimlhO3UY6UJzIC7JVBzSbXXQ&si=jGhEfT-pffVTE9z9,1,Hard
+ECE,1,2,30,Data Communication,https://www.coursera.org/learn/data-communication,https://youtube.com/playlist?list=PLZQgf2pQtimlhO3UY6UJzIC7JVBzSbXXQ&si=jGhEfT-pffVTE9z5,0,Hard
+ECE,1,2,35,VLSI Design and Verification,https://www.coursera.org/learn/vlsi-design-and-verification,https://youtu.be/4Gx_2POPFUg?list=PLZjlBaHNchvOJ8f_ThiyObz1l9k2ncfKk&t=11,1,Hard
+ECE,1,2,40,VLSI Design and Verification,https://www.coursera.org/learn/vlsi-design-and-verification,https://youtu.be/szXoyxc2nFo?list=PLZjlBaHNchvOJ8f_ThiyObz1l9k2ncfKk&t=13,1,Hard
+ECE,1,2,45,RF and Microwave Engineering,https://www.coursera.org/learn/rf-and-microwave-engineering,https://youtube.com/playlist?list=PLZQgf2pQtimlhO3UY6UJzIC7JVBzSbXXQ&si=jGhEfT-pffVTE9z13,1,Hard
+ECE,1,2,50,Embedded Systems Design,https://www.coursera.org/learn/embedded-systems-design,https://youtube.com/playlist?list=PLZQgf2pQtimlhO3UY6UJzIC7JVBzSbXXQ&si=jGhEfT-pffVTE9z14,1,Hard
+ECE,1,2,55,Analog and Digital Electronics,https://www.coursera.org/learn/analog-and-digital-electronics,https://youtu.be/2xXErGeeb_Q?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&t=4,1,Hard
+ECE,1,2,60,Control Systems Engineering,https://www.coursera.org/learn/control-systems-engineering,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S16dcI,1,Hard
+ECE,1,2,65,Communication Networks,https://www.coursera.org/learn/communication-networks,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S15dcI,3,Hard
+ECE,1,2,70,Analog and Digital Electronics,https://www.coursera.org/learn/analog-and-digital-electronics,https://youtu.be/2xXErGeeb_Q?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&t=4,1,Hard
+ECE,1,2,75,Control Systems Engineering,https://www.coursera.org/learn/control-systems-engineering,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S13dcI,1,Hard
+ECE,1,2,80,Biomedical Instrumentation,https://www.coursera.org/learn/biomedical-instrumentation,https://youtu.be/FH4NO9N2OEI?list=PLm_MSClsnwm-kjSqlfwaEhKwfnnfLUUBM&t=4,1,Hard
+ECE,1,2,85,Microcontrollers and Applications,https://www.coursera.org/learn/microcontrollers-and-applications,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S11dcI,1,Hard
+ECE,1,2,90,Analog and Digital Electronics,https://www.coursera.org/learn/analog-and-digital-electronics,https://youtu.be/2xXErGeeb_Q?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&t=4,1,Hard
+ECE,1,2,95,Wireless Communication Systems,https://www.coursera.org/learn/wireless-communication-systems,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S9dcI,1,Hard
+ECE,1,2,5,Control Systems Engineering,https://www.coursera.org/learn/control-systems-engineering,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S8dcI,1,Hard
+ECE,1,2,10,RF and Microwave Engineering,https://www.coursera.org/learn/rf-and-microwave-engineering,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S7dcI,1,Hard
+ECE,1,2,15,Automotive Electronics,https://www.coursera.org/learn/automotive-electronics,https://youtu.be/6aVyHD_iiNU?list=PLAMZfGOiiA2NYHfC2tUIJVRLWf6dTEP0I&t=1,1,Hard
+ECE,1,2,20,Biomedical Instrumentation,https://www.coursera.org/learn/biomedical-instrumentation,https://youtu.be/9vldTr2vKfo?list=PLm_MSClsnwm-kjSqlfwaEhKwfnnfLUUBM&t=2,1,Hard
+ECE,1,2,25,Power Electronics and Drives,https://www.coursera.org/learn/power-electronics-and-drives,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S4dcI,1,Hard
+ECE,1,2,30,Internet of Things (IoT),https://www.coursera.org/learn/internet-of-things-(iot),https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S3dcI,1,Hard
+ECE,1,2,35,Communication Networks,https://www.coursera.org/learn/communication-networks,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S2dcI,3,Hard
+ECE,1,2,40,RF and Microwave Engineering,https://www.coursera.org/learn/rf-and-microwave-engineering,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S1dcI,1,Hard
+ECE,1,2,45,Embedded Systems Design,https://www.coursera.org/learn/embedded-systems-design,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S0dcI,1,Hard
+ECE,1,2,50,Biomedical Instrumentation,https://www.coursera.org/learn/biomedical-instrumentation,https://youtu.be/OVLirbewX-M?list=PLL_6qtCTrqLmRjr9GP3d_mn6Zu5iMgfV_&t=5,1,Hard
+ECE,1,2,55,Internet of Things (IoT),https://www.coursera.org/learn/internet-of-things-(iot),https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S2dcI,1,Hard
+ECE,1,2,60,Control Systems Engineering,https://www.coursera.org/learn/control-systems-engineering,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S3dcI,1,Hard
+ECE,1,2,65,RF and Microwave Engineering,https://www.coursera.org/learn/rf-and-microwave-engineering,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S4dcI,1,Hard
+ECE,1,2,70,Digital Signal Processing,https://www.coursera.org/learn/digital-signal-processing,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S5dcI,1,Hard
+ECE,1,2,75,Power Electronics and Drives,https://www.coursera.org/learn/power-electronics-and-drives,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S6dcI,1,Hard
+ECE,1,2,80,Biomedical Instrumentation,https://www.coursera.org/learn/biomedical-instrumentation,https://youtu.be/KqrAjfqRptI?list=PLL_6qtCTrqLmRjr9GP3d_mn6Zu5iMgfV_&t=1,1,Hard
+ECE,1,2,85,Optical Fiber Communication,https://www.coursera.org/learn/optical-fiber-communication,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S8dcI,1,Hard
+ECE,1,2,90,VLSI Design and Verification,https://www.coursera.org/learn/vlsi-design-and-verification,https://youtu.be/LuQW4lKCUgs?list=PLZjlBaHNchvOJ8f_ThiyObz1l9k2ncfKk,1,Hard
+ECE,1,2,95,Control Systems Engineering,https://www.coursera.org/learn/control-systems-engineering,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S10dcI,1,Hard
+ECE,1,2,5,Internet of Things (IoT),https://www.coursera.org/learn/internet-of-things-(iot),https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S11dcI,1,Hard
+ECE,1,2,10,Control Systems Engineering,https://www.coursera.org/learn/control-systems-engineering,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S12dcI,1,Hard
+ECE,1,2,15,Optical Fiber Communication,https://www.coursera.org/learn/optical-fiber-communication,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S13dcI,1,Hard
+ECE,1,1,20,Automotive Electronics,https://www.coursera.org/learn/automotive-electronics,https://youtu.be/5OfxuSi3WlU?list=PLAMZfGOiiA2NYHfC2tUIJVRLWf6dTEP0I&t=2,1,Medium
+ECE,1,1,25,Automotive Electronics,https://www.coursera.org/learn/automotive-electronics,https://youtu.be/tNEFU-I_4FM?list=PLAMZfGOiiA2NYHfC2tUIJVRLWf6dTEP0I,1,Medium
+ECE,1,1,30,VLSI Design and Verification,https://www.coursera.org/learn/vlsi-design-and-verification,https://youtu.be/-lBBG6IHXao?list=PLZjlBaHNchvOJ8f_ThiyObz1l9k2ncfKk&t=2,1,Medium
+ECE,1,1,35,Wireless Communication Systems,https://www.coursera.org/learn/wireless-communication-systems,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S17dcI,1,Medium
+ECE,1,1,40,Digital Signal Processing,https://www.coursera.org/learn/digital-signal-processing,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S18dcI,1,Medium
+ECE,1,1,45,Communication Networks,https://www.coursera.org/learn/communication-networks,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S19dcI,3,Medium
+ECE,1,1,50,VLSI Design and Verification,https://www.coursera.org/learn/vlsi-design-and-verification,https://youtu.be/QAXylxrXI3U?list=PLZjlBaHNchvOJ8f_ThiyObz1l9k2ncfKk&t=1,1,Medium
+ECE,1,1,55,Data Communication,https://www.coursera.org/learn/data-communication,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S21dcI,0,Medium
+ECE,1,1,60,Wireless Communication Systems,https://www.coursera.org/learn/wireless-communication-systems,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S22dcI,1,Medium
+ECE,1,1,65,Power Electronics and Drives,https://www.coursera.org/learn/power-electronics-and-drives,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S23dcI,1,Medium
+ECE,1,1,70,Analog and Digital Electronics,https://www.coursera.org/learn/analog-and-digital-electronics,https://youtu.be/2xXErGeeb_Q?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&t=4,1,Medium
+ECE,1,1,75,Optical Fiber Communication,https://www.coursera.org/learn/optical-fiber-communication,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S25dcI,1,Medium
+ECE,1,1,80,Internet of Things (IoT),https://www.coursera.org/learn/internet-of-things-(iot),https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S26dcI,1,Medium
+ECE,1,1,85,Power Electronics and Drives,https://www.coursera.org/learn/power-electronics-and-drives,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S27dcI,1,Medium
+ECE,1,1,90,Microcontrollers and Applications,https://www.coursera.org/learn/microcontrollers-and-applications,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S28dcI,1,Medium
+ECE,1,1,95,Data Communication,https://www.coursera.org/learn/data-communication,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S29dcI,0,Medium
+ECE,1,1,5,Power Electronics and Drives,https://www.coursera.org/learn/power-electronics-and-drives,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S30dcI,1,Medium
+ECE,1,1,10,Communication Networks,https://www.coursera.org/learn/communication-networks,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S31dcI,3,Medium
+ECE,1,1,15,Digital Signal Processing,https://www.coursera.org/learn/digital-signal-processing,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S32dcI,1,Medium
+ECE,1,1,20,Microcontrollers and Applications,https://www.coursera.org/learn/microcontrollers-and-applications,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S33dcI,1,Medium
+ECE,1,1,25,Power Electronics and Drives,https://www.coursera.org/learn/power-electronics-and-drives,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S34dcI,1,Medium
+ECE,1,1,30,Automotive Electronics,https://www.coursera.org/learn/automotive-electronics,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S35dcI,1,Medium
+ECE,1,1,35,Internet of Things (IoT),https://www.coursera.org/learn/internet-of-things-(iot),https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S36dcI,1,Medium
+ECE,1,1,40,Analog and Digital Electronics,https://www.coursera.org/learn/analog-and-digital-electronics,https://youtu.be/2xXErGeeb_Q?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&t=4,1,Medium
+ECE,1,1,45,Data Communication,https://www.coursera.org/learn/data-communication,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S38dcI,0,Medium
+ECE,1,1,50,Biomedical Instrumentation,https://www.coursera.org/learn/biomedical-instrumentation,https://youtu.be/PHmK_xCQfoQ?list=PLL_6qtCTrqLmRjr9GP3d_mn6Zu5iMgfV_&t=1,1,Medium
+ECE,1,1,55,Optical Fiber Communication,https://www.coursera.org/learn/optical-fiber-communication,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S40dcI,1,Medium
+ECE,1,1,60,Analog and Digital Electronics,https://www.coursera.org/learn/analog-and-digital-electronics,https://youtu.be/2xXErGeeb_Q?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&t=4,1,Medium
+ECE,1,1,65,Control Systems Engineering,https://www.coursera.org/learn/control-systems-engineering,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S42dcI,1,Medium
+ECE,1,1,70,Wireless Communication Systems,https://www.coursera.org/learn/wireless-communication-systems,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S43dcI,1,Medium
+ECE,1,1,75,Wireless Communication Systems,https://www.coursera.org/learn/wireless-communication-systems,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S44dcI,1,Medium
+ECE,1,1,80,Control Systems Engineering,https://www.coursera.org/learn/control-systems-engineering,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S45dcI,1,Medium
+ECE,1,1,85,Analog and Digital Electronics,https://www.coursera.org/learn/analog-and-digital-electronics,https://youtu.be/2xXErGeeb_Q?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&t=4,1,Medium
+ECE,1,1,90,Data Communication,https://www.coursera.org/learn/data-communication,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S47dcI,0,Medium
+ECE,1,1,95,Data Communication,https://www.coursera.org/learn/data-communication,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S48dcI,0,Medium
+ECE,1,1,5,Optical Fiber Communication,https://www.coursera.org/learn/optical-fiber-communication,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S49dcI,1,Medium
+ECE,1,1,10,Communication Networks,https://www.coursera.org/learn/communication-networks,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S50dcI,3,Medium
+ECE,1,1,15,RF and Microwave Engineering,https://www.coursera.org/learn/rf-and-microwave-engineering,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S51dcI,1,Medium
+ECE,1,1,20,Analog and Digital Electronics,https://www.coursera.org/learn/analog-and-digital-electronics,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S52dcI,1,Medium
+ECE,1,1,25,VLSI Design and Verification,https://www.coursera.org/learn/vlsi-design-and-verification,https://youtu.be/IUFAONcJxUw?list=PLZjlBaHNchvOJ8f_ThiyObz1l9k2ncfKk&t=1,1,Medium
+ECE,1,1,30,VLSI Design and Verification,https://www.coursera.org/learn/vlsi-design-and-verification,https://youtu.be/ylH-8RJcIlw?list=PLZjlBaHNchvOJ8f_ThiyObz1l9k2ncfKk&t=3,1,Medium
+ECE,1,1,35,VLSI Design and Verification,https://www.coursera.org/learn/vlsi-design-and-verification,https://youtu.be/OC10TKEf_kc?list=PLZjlBaHNchvOJ8f_ThiyObz1l9k2ncfKk&t=1,1,Medium
+ECE,1,0,40,Analog Circuits,https://www.tutorialspoint.com/power_system_analysis/power_system_analysis_overview.htm,https://youtu.be/TlB_eWDSMt4?si=bz_84Bo_wa6s5aEN,1,Easy
+ME,3,1,45,Thermodynamics,https://www.aboutmech.com/2016/03/thermodynamics.html,https://youtu.be/iUEjQQtrT50?si=TRrHQl45TDCQDPDI,1,Medium
+ME,3,0,50,Finance,https://www.udemy.com/finance,https://www.youtube.com/watch?v=FKI5VPUFDAT,1,Easy
+ME,3,1,55,Mechanical Engineering,https://www.w3schools.com/mechanical_engineering,https://www.youtube.com/watch?v=MKXNVPL8XC2,1,Medium
+ME,3,1,60,Welding Technology,https://archosengineering.com/electrical-engineering-in-renewable-energy/,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,1,Medium
+ME,3,0,65,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+ME,3,2,70,Marketing,https://www.w3schools.com/marketing,https://www.youtube.com/watch?v=WB5YJ6VX1G8,1,Hard
+ME,3,0,75,Mechanical Engineering,https://www.udemy.com/mechanical_engineering,https://www.youtube.com/watch?v=RP1V5U46E2S,1,Easy
+ME,3,0,80,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+ME,3,1,85,Physics,https://www.coursera.org/physics,https://youtu.be/UY48U06KASY,1,Medium
+ME,3,2,90,Heat Transfer,https://en.wikipedia.org/wiki/Electromagnetic_field,https://youtu.be/_Ypb9_Ok3W8?si=PylRRt7w_E20qphI,0,Hard
+ME,3,0,95,Mechanical Engineering,https://www.w3schools.com/mechanical_engineering,https://www.youtube.com/watch?v=MKXNVPL8XC2,3,Easy
+ME,3,0,5,Welding Technology,https://archosengineering.com/electrical-engineering-in-renewable-energy/,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,1,Easy
+ME,3,1,10,Heat Transfer,https://en.wikipedia.org/wiki/Electromagnetic_field,https://youtu.be/_Ypb9_Ok3W8?si=PylRRt7w_E20qphI,1,Medium
+ME,3,0,15,Kinematics,https://www.mmmut.ac.in/News_content/12101dep-notice_04242021.pdf,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,1,Easy
+ME,3,1,20,Welding Technology,https://www.iqsdirectory.com/articles/hydraulics/difference-between-hydraulics-and-pneumatics.html,https://youtu.be/og0Utz4DjFs?si=G9FsQqQshZVamWfx,1,Medium
+ME,3,1,25,CAD/CAM,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/G-6QxVNBG4g?si=4xol4vuDigBa0V1E,1,Medium
+ME,3,0,30,Kinematics,https://study.madeeasy.in/subjects/what-is-power-systems/,https://youtu.be/ptTpXmjxGTM?si=-uP-yPC7nAkLfrQ9,1,Easy
+ME,3,0,35,Welding Technology,https://www.tutorialspoint.com/ruby/ruby_overview.htm,https://youtu.be/LKlOH8OLLcw?si=MgbJuR7GmkwMUNdS,1,Easy
+ME,3,0,40,CAD/CAM,https://www.tutorialspoint.com/perl/perl_introduction.htm,https://youtu.be/ukzFI9rgwfU?si=Q8fIkwWupfXmzXRe,1,Easy
+ME,3,1,45,Hydraulics and Pneumatics,https://www.iqsdirectory.com/articles/hydraulics/difference-between-hydraulics-and-pneumatics.html,https://youtu.be/bfhcaGDd5tY?si=CRJ2PwFfguS9CSzZ,1,Medium
+ME,3,0,50,Kinematics,https://www.geeksforgeeks.org/properties-of-electromagnetic-field/,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,1,Easy
+ME,3,2,55,Heat Transfer,https://www.w3schools.com/html/html_scripts.asp,https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C,1,Hard
+ME,3,0,60,CAD/CAM,https://www.geeksforgeeks.org/communication-systems/,https://youtu.be/45yUvnMvTUo?si=sXH9yV-raYBcN9jB,1,Easy
+ME,3,0,65,CAD/CAM,https://www.w3schools.com/css/,https://youtu.be/PFSQRMus_QQ?si=suK5fdzEJQeVyWQ7,1,Easy
+ME,3,0,70,Welding Technology,https://www.tutorialspoint.com/perl/perl_introduction.htm,https://youtu.be/45yUvnMvTUo?si=sXH9yV-raYBcN9jB,1,Easy
+ME,3,1,75,CAD/CAM,https://krce.ac.in/blog/thermodynamics-and-heat-transfer-core-concepts-of-mechanical-engineering/,https://youtu.be/RucN1bn_jQs?si=FSepBI5Qx4O33mwG,1,Medium
+ME,3,0,80,Heat Transfer,https://www.adda247.com/engineering-jobs/ic-engine/,https://youtu.be/A0BuHEqDm88?si=JkDh3T3LDT06kD_4,1,Easy
+ME,3,1,85,Robotics,https://www.geeksforgeeks.org/express-js/,https://youtu.be/Vd2UJiIPbag?si=qnnoYuXowmL7YKbp,1,Medium
+ME,3,0,90,Physics,https://www.coursera.org/physics,https://youtu.be/YEM1NTXCI6F,1,Easy
+ME,3,2,95,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+ME,3,0,5,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+ME,3,0,10,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+ME,3,0,15,Heat Transfer,https://www.mmmut.ac.in/News_content/12101dep-notice_04242021.pdf,https://youtu.be/tU3NEYe-b2U?si=MNy7sfl5ABHc1SXr,1,Easy
+ME,3,0,20,Mechanical Engineering,https://www.coursera.org/mechanical_engineering,https://youtu.be/0FWYRWMKVXO,1,Easy
+ME,3,2,25,Marketing,https://www.w3schools.com/marketing,https://youtu.be/PZFAWUM33TZ,1,Hard
+ME,3,1,30,Marketing,https://www.coursera.org/marketing,https://youtu.be/LT2948INZUL,1,Medium
+ME,3,2,35,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+ME,3,1,40,Mechanical Engineering,https://www.coursera.org/mechanical_engineering,https://youtu.be/0FWYRWMKVXO,1,Medium
+ME,3,1,45,CAD/CAM,https://en.wikipedia.org/wiki/Electromagnetic_field,https://youtu.be/ORyi6tTMNqE?si=f9aICh0WN9uUaDOy,1,Medium
+ME,3,0,50,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+ME,3,1,55,Mechanical Engineering,https://www.coursera.org/mechanical_engineering,https://youtu.be/T5M0CDC6N5D,1,Medium
+ME,3,1,60,Physics,https://www.udemy.com/physics,https://youtu.be/LMV46C9FD57,1,Medium
+ME,3,0,65,Heat Transfer,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,1,Easy
+ME,3,0,70,CAD/CAM,https://www.w3schools.com/nodejs/nodejs_get_started.asp,https://www.youtube.com/live/zeSEFsR-jZA?si=6RSz5adyZHQS0K4c,3,Easy
+ME,3,2,75,Heat Transfer,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,3,Hard
+ME,3,0,80,CAD/CAM,https://www.w3schools.com/nodejs/nodejs_get_started.asp,https://www.youtube.com/live/zeSEFsR-jZA?si=6RSz5adyZHQS0K4c,1,Easy
+ME,3,2,85,Finance,https://www.coursera.org/finance,https://www.youtube.com/watch?v=TF61R0CM6I0,1,Hard
+ME,3,0,90,Mechanical Engineering,https://www.coursera.org/mechanical_engineering,https://youtu.be/6EEFU3JIGL1,1,Easy
+ME,3,1,95,Physics,https://www.udemy.com/physics,https://youtu.be/FM3N43TNN9A,1,Medium
+ME,3,1,5,Mechanical Engineering,https://www.w3schools.com/mechanical_engineering,https://www.youtube.com/watch?v=YBADOOODGOV,1,Medium
+ME,3,2,10,Finance,https://www.coursera.org/finance,https://www.youtube.com/watch?v=MSFV3GC2X22,1,Hard
+ME,3,0,15,Graphic Design,https://www.w3schools.com/graphic_design,https://www.youtube.com/watch?v=W2W7PV3TZQ2,1,Easy
+ME,3,2,20,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+ME,3,0,25,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+ME,3,0,30,Physics,https://www.udemy.com/physics,https://www.youtube.com/watch?v=GDD23IZ2E7W,1,Easy
+ME,3,1,35,Data Science,https://www.w3schools.com/data_science,https://www.youtube.com/watch?v=JPQR7KM1L85,0,Medium
+ME,3,0,40,Kinematics,https://www.w3schools.com/css/,https://youtu.be/cHT-qLnRm0E?si=NMgW_OstrO4fmC82,1,Easy
+ME,3,0,45,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+ME,3,0,50,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+ME,3,0,55,Finance,https://www.w3schools.com/finance,https://www.youtube.com/watch?v=NW30A96RCUB,1,Easy
+ME,3,0,60,Mechanical Engineering,https://www.w3schools.com/mechanical_engineering,https://youtu.be/4WF9X2QEXN4,1,Easy
+ME,3,2,65,Welding Technology,https://www.jntua.ac.in/gate-online-classes/registration/downloads/material/a159280334379.pdf,https://youtu.be/44Db1Z59_eo?si=kT4RNwKknapqMpb8,1,Hard
+ME,3,0,70,Kinematics,https://academic.oup.com/ce/article/7/6/1199/7425141,https://youtu.be/iUEjQQtrT50?si=TRrHQl45TDCQDPDI,1,Easy
+ME,3,0,75,Robotics,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/h6yP0hgVXU8?si=mQwH-d83Jwd6tqFS,1,Easy
+ME,3,0,80,Welding Technology,https://www.w3schools.com/html/html_responsive.asp,https://youtu.be/PmBqB-4hgW4?si=Bpt-eXSXcBpVkwbY,1,Easy
+ME,3,2,85,Kinematics,https://nexflow.com/blog/difference-between-pneumatics-and-hydraulics/,https://youtu.be/Z1crLo7KyH8?si=2CydZFNvY920B-f2,1,Hard
+ME,3,2,90,Robotics,https://getbootstrap.com/docs/5.0/getting-started/introduction/,https://youtu.be/HD13eq_Pmp8?si=rOhiMiWVl-GFv6KV,1,Hard
+ME,3,0,95,Kinematics,https://www.w3schools.com/go/go_introduction.php,https://youtu.be/tw2MBRxSZMg?si=nebnTVG1TkK0RRtf,1,Easy
+ME,3,0,5,Mechanical Engineering,https://www.w3schools.com/mechanical_engineering,https://www.youtube.com/watch?v=TPRJYAW5WZG,1,Easy
+ME,3,1,10,Hydraulics and Pneumatics,https://nexflow.com/blog/difference-between-pneumatics-and-hydraulics/,https://youtu.be/tw2MBRxSZMg?si=nebnTVG1TkK0RRtf,1,Medium
+ME,3,1,15,Thermodynamics,https://krce.ac.in/blog/thermodynamics-and-heat-transfer-core-concepts-of-mechanical-engineering/,https://youtu.be/Z1crLo7KyH8?si=2CydZFNvY920B-f2,1,Medium
+ME,3,2,20,Heat Transfer,https://vemu.org/uploads/lecture_notes/01_02_2020_2078314921.pdf,https://youtu.be/6c1Oo0Up08E?si=CxxBFTP0MQa_7HM9,1,Hard
+ME,3,1,25,Fluid Mechanics,https://en.wikipedia.org/wiki/Fluid_mechanics,https://youtu.be/A0BuHEqDm88?si=JkDh3T3LDT06kD_4,1,Medium
+ME,3,2,30,Kinematics,https://www.w3schools.com/css/,https://youtu.be/48SUuk8e55c?si=2aVcZldjJoVpqT70,1,Hard
+ME,3,0,35,Strength of Materials,https://mechanicalc.com/reference/strength-of-materials,https://youtu.be/8CP714_wKVk?si=CA8Xabcs6y6U-EnG,1,Easy
+ME,3,0,40,Theory of Machines,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,1,Easy
+ME,3,0,45,Strength of Materials,https://en.wikipedia.org/wiki/Strength_of_materials,https://youtu.be/DDWNjdQsrq4?si=_zVYj0Ref-OR9KHf,1,Easy
+ME,3,2,50,Welding Technology,https://www.tutorialspoint.com/cprogramming/c_overview.htm,https://youtu.be/RucN1bn_jQs?si=FSepBI5Qx4O33mwG,1,Hard
+ME,3,0,55,Dynamics of Machines,https://vemu.org/uploads/lecture_notes/01_02_2020_2078314921.pdf,https://youtu.be/TPlqvCg5xJ4?si=ZYRlWavzSt1HvXF9,1,Easy
+ME,3,2,60,Machine Design,https://www.nevatio.com/resources/machine-design-engineering,https://youtu.be/BPMd9nC_KWo?si=zFoX1KrloHuUjJaM,1,Hard
+ME,3,2,65,Materials Science,https://www.discoverengineering.org/material-science-an-integral-part-of-mechanical-engineering/,https://youtu.be/x5OD2KZXd54?si=aS5TvAb9T0NtkJHf,1,Hard
+ME,3,0,70,CAD/CAM,https://www.nevatio.com/resources/machine-design-engineering,https://youtu.be/eBgsxlwIs9o?si=fDi1oCM4_3dVwpQk,1,Easy
+ME,3,0,75,Robotics,https://en.wikipedia.org/wiki/Strength_of_materials,https://youtu.be/pWd2b-F4STw?si=XmCzv38Pp-hRKKQg,1,Easy
+ME,3,2,80,IC Engines,https://en.wikipedia.org/wiki/Internal_combustion_engine,https://youtu.be/RucN1bn_jQs?si=FSepBI5Qx4O33mwG,1,Hard
+ME,3,0,85,Manufacturing Process,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/RucN1bn_jQs?si=FSepBI5Qx4O33mwG,1,Easy
+ME,3,0,90,CAD/CAM,https://study.madeeasy.in/subjects/what-is-power-systems/,https://youtu.be/hlGoQC332VM?si=OoGvG1t3a2hoT-wo,1,Easy
+ME,3,2,95,IC Engines,https://www.adda247.com/engineering-jobs/ic-engine/,https://youtu.be/G-6QxVNBG4g?si=4xol4vuDigBa0V1E,1,Hard
+ME,3,2,5,Robotics,https://www.w3schools.com/go/go_introduction.php,https://youtu.be/KJgsSFOSQv0?si=b4Q0SsItgVCQqWXi,1,Hard
+ME,3,2,10,Heat Transfer,https://www.geeksforgeeks.org/mern-stack/,https://youtu.be/TlB_eWDSMt4?si=bz_84Bo_wa6s5aEN,1,Hard
+ME,3,2,15,Welding Technology,https://www.tra-c.com/en/article-2/what-is-mechanical-welding/,https://youtu.be/CX-mPjgacCE?si=XHOs1NLzEomIHzIL,1,Hard
+ME,3,1,20,Hydraulics and Pneumatics,https://nexflow.com/blog/difference-between-pneumatics-and-hydraulics/,https://youtu.be/tw2MBRxSZMg?si=nebnTVG1TkK0RRtf,1,Medium
+ME,3,1,25,Renewable Energy,https://kahedu.edu.in/how-does-mechanical-engineering-drive-innovation-in-renewable-energy-technologies/,https://youtu.be/tU3NEYe-b2U?si=MNy7sfl5ABHc1SXr,1,Medium
+ME,3,0,30,Dynamics of Machines,https://www.mmmut.ac.in/News_content/12101dep-notice_04242021.pdf,https://youtu.be/n6Ad5TvESKs?si=bsNa0z71NRJMsQXv,1,Easy
+ME,3,1,35,Robotics,https://www.w3schools.com/html/,https://youtu.be/vpAJ0s5S2t0?si=RaDzfqxcV3Mvmxzc,1,Medium
+ME,3,2,40,Heat Transfer,https://www.geeksforgeeks.org/introduction-to-mean-stack/,https://youtu.be/gfkTfcpWqAY?si=qPdBaCtmbxvJmMvm,1,Hard
+ME,3,1,45,Hydraulics and Pneumatics,https://www.iqsdirectory.com/articles/hydraulics/difference-between-hydraulics-and-pneumatics.html,https://youtu.be/bfhcaGDd5tY?si=CRJ2PwFfguS9CSzZ,1,Medium
+ME,3,0,50,Welding Technology,https://www.w3schools.com/java/,https://youtu.be/x5OD2KZXd54?si=aS5TvAb9T0NtkJHf,1,Easy
+ME,3,1,55,Robotics,https://www.w3schools.com/html/,https://youtu.be/44Db1Z59_eo?si=kT4RNwKknapqMpb8,1,Medium
+ME,3,0,60,Welding Technology,https://en.wikipedia.org/wiki/Power_engineering,https://youtu.be/PmBqB-4hgW4?si=Bpt-eXSXcBpVkwbY,1,Easy
+ME,3,1,65,Robotics,https://en.wikipedia.org/wiki/Internal_combustion_engine,https://youtu.be/YmKmS9bpMqM?si=_W36JAAVt-lRDHYt,1,Medium
+ME,3,2,70,Welding Technology,https://s3da-design.com/everything-you-need-to-know-about-instrumentation-and-electrical-engineering-services/,https://youtu.be/Y0xGmQKcvwE?si=biXaFu5wpp5tV4Xv,1,Hard
+ME,3,1,75,Kinematics,https://www.w3schools.com/php/php_intro.asp,https://www.youtube.com/live/3NdEjPxl39s?si=JcPwFSCt5_NGO_N0,1,Medium
+ME,3,1,80,Kinematics,https://www.discoverengineering.org/material-science-an-integral-part-of-mechanical-engineering/,https://youtu.be/t_ispmWmdjY?si=YLlcFavg34sDMBkN,1,Medium
+ME,3,1,85,Kinematics,https://en.wikipedia.org/wiki/Electronic_engineering,https://youtu.be/9ABKT9g1llA?si=UhouNCH9Io9jt7O-,1,Medium
+ME,3,1,90,CAD/CAM,https://www.tutorialspoint.com/cprogramming/c_overview.htm,https://youtu.be/G-6QxVNBG4g?si=4xol4vuDigBa0V1E,1,Medium
+ME,3,0,95,Robotics,https://www.w3schools.com/react/react_getstarted.asp,https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f,1,Easy
+ME,3,2,5,Heat Transfer,https://www.tra-c.com/en/article-2/what-is-mechanical-welding/,https://youtu.be/yyUHQIec83I?si=scc1O2AnXDNryfdv,1,Hard
+ME,3,0,10,Strength of Materials,https://mechanicalc.com/reference/strength-of-materials,https://youtu.be/8CP714_wKVk?si=CA8Xabcs6y6U-EnG,1,Easy
+ME,3,0,15,Theory of Machines,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,1,Easy
+ME,3,1,20,Heat Transfer,https://getbootstrap.com/docs/5.0/getting-started/introduction/,https://youtu.be/tw2MBRxSZMg?si=nebnTVG1TkK0RRtf,1,Medium
+ME,3,0,25,Strength of Materials,https://en.wikipedia.org/wiki/Strength_of_materials,https://youtu.be/DDWNjdQsrq4?si=_zVYj0Ref-OR9KHf,1,Easy
+ME,3,0,30,Manufacturing Process,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/n6Ad5TvESKs?si=bsNa0z71NRJMsQXv,1,Easy
+ME,3,0,35,Dynamics of Machines,https://www.mmmut.ac.in/News_content/12101dep-notice_04242021.pdf,https://youtu.be/n6Ad5TvESKs?si=bsNa0z71NRJMsQXv,1,Easy
+ME,3,2,40,Machine Design,https://www.nevatio.com/resources/machine-design-engineering,https://youtu.be/BPMd9nC_KWo?si=zFoX1KrloHuUjJaM,1,Hard
+ME,3,2,45,Materials Science,https://www.discoverengineering.org/material-science-an-integral-part-of-mechanical-engineering/,https://youtu.be/x5OD2KZXd54?si=aS5TvAb9T0NtkJHf,1,Hard
+ME,3,2,50,IC Engines,https://en.wikipedia.org/wiki/Internal_combustion_engine,https://youtu.be/RucN1bn_jQs?si=FSepBI5Qx4O33mwG,1,Hard
+ME,3,2,55,Welding Technology,https://www.jntua.ac.in/gate-online-classes/registration/downloads/material/a159280334379.pdf,https://youtu.be/44Db1Z59_eo?si=kT4RNwKknapqMpb8,1,Hard
+ME,3,2,60,IC Engines,https://www.adda247.com/engineering-jobs/ic-engine/,https://youtu.be/G-6QxVNBG4g?si=4xol4vuDigBa0V1E,1,Hard
+ME,3,2,65,Welding Technology,https://www.tra-c.com/en/article-2/what-is-mechanical-welding/,https://youtu.be/CX-mPjgacCE?si=XHOs1NLzEomIHzIL,1,Hard
+ME,3,1,70,Welding Technology,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/VA51cr9MStI?si=WupuLMr-Gx2THUGT,1,Medium
+ME,3,1,75,Renewable Energy,https://kahedu.edu.in/how-does-mechanical-engineering-drive-innovation-in-renewable-energy-technologies/,https://youtu.be/tU3NEYe-b2U?si=MNy7sfl5ABHc1SXr,1,Medium
+ME,3,1,80,Thermodynamics,https://www.aboutmech.com/2016/03/thermodynamics.html,https://youtu.be/iUEjQQtrT50?si=TRrHQl45TDCQDPDI,1,Medium
+ME,3,1,85,Fluid Mechanics,https://en.wikipedia.org/wiki/Fluid_mechanics,https://youtu.be/A0BuHEqDm88?si=JkDh3T3LDT06kD_4,1,Medium
+ME,3,1,90,Thermodynamics,https://krce.ac.in/blog/thermodynamics-and-heat-transfer-core-concepts-of-mechanical-engineering/,https://youtu.be/Z1crLo7KyH8?si=2CydZFNvY920B-f2,1,Medium
+ME,3,0,95,Dynamics of Machines,https://vemu.org/uploads/lecture_notes/01_02_2020_2078314921.pdf,https://youtu.be/TPlqvCg5xJ4?si=ZYRlWavzSt1HvXF9,1,Easy
+ME,3,2,5,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Hard
+CSE,0,0,10,Computer Architecture,https://www.geeksforgeeks.org/flowchart-for-basic-machine-learning-models/?ref=lbp,https://youtu.be/8CP714_wKVk?si=CA8Xabcs6y6U-EnG,1,Easy
+CSE,0,0,15,Game Development,https://www.iqsdirectory.com/articles/hydraulics/difference-between-hydraulics-and-pneumatics.html,https://youtu.be/XZwBNDGuWGU?si=BvSLKgjLVXR-Mo_K,1,Easy
+CSE,0,0,20,Bootstrap,https://getbootstrap.com/,https://www.youtube.com/watch?v=4sosXZsdy-s,1,Easy
+CSE,0,0,25,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+CSE,0,0,30,Cryptography,https://www.electrical4u.com/electrical-engineering-articles/digital-electronics/,https://youtu.be/HcOc7P5BMi4?si=FWNvGOfQ3frUlGjT,1,Easy
+CSE,0,0,35,Data Structures,https://www.w3schools.com/html/html_scripts.asp,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,0,Easy
+CSE,0,0,40,Marketing,https://www.coursera.org/marketing,https://youtu.be/1DYAJAS1OHA,1,Easy
+CSE,0,0,45,Finance,https://www.w3schools.com/finance,https://youtu.be/E4BT8WX678U,1,Easy
+CSE,0,0,50,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+CSE,0,0,55,HTML5,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,1,Easy
+CSE,0,0,60,Computer Architecture,https://www.tutorialspoint.com/control_system/control_system_overview.htm,https://youtu.be/lfmg-EJ8gm4?si=WcV1IKKA6Ev9ryv_,1,Easy
+CSE,0,0,65,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+CSE,0,0,70,Game Development,https://s3da-design.com/everything-you-need-to-know-about-instrumentation-and-electrical-engineering-services/,https://youtu.be/wRNinF7YQqQ?si=UsB209SOkSL0Dmhb,1,Easy
+CSE,0,0,75,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+CSE,0,0,80,Game Development,https://www.tutorialspoint.com/ruby/ruby_overview.htm,https://youtu.be/KUQgQFMY9XQ?si=1kK6HFC-grLg3Lnc,1,Easy
+CSE,0,0,85,Data Science,https://www.coursera.org/data_science,https://youtu.be/HG5MUPLLVU2,0,Easy
+CSE,0,0,90,HTML5,https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5,https://www.youtube.com/watch?v=UB1O30fR-EE,4,Easy
+CSE,0,0,95,ML,https://www.geeksforgeeks.org/machine-learning/,https://youtu.be/ukzFI9rgwfU?si=Q8fIkwWupfXmzXRe,0,Easy
+CSE,0,0,5,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+CSE,0,0,10,Computer Architecture,https://www.w3schools.com/sql/sql_intro.asp,https://youtu.be/iUEjQQtrT50?si=TRrHQl45TDCQDPDI,1,Easy
+CSE,0,0,15,Cryptography,https://kahedu.edu.in/how-does-mechanical-engineering-drive-innovation-in-renewable-energy-technologies/,https://youtu.be/XZwBNDGuWGU?si=BvSLKgjLVXR-Mo_K,1,Easy
+CSE,0,0,20,Bootstrap,https://getbootstrap.com/,https://www.youtube.com/watch?v=4sosXZsdy-s,1,Easy
+CSE,0,0,25,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+CSE,0,0,30,HTML5,https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5,https://www.youtube.com/watch?v=UB1O30fR-EE,4,Easy
+CSE,0,0,35,Computer Architecture,https://www.tutorialspoint.com/signal_processing/signal_processing_overview.htm,https://youtu.be/WEghIXs8F6c?si=tGocPSUyTJ4caHDX,1,Easy
+CSE,0,0,40,Game Development,https://www.circuitbread.com/tutorials/introduction-to-control-systems-1.1,https://youtu.be/HcOc7P5BMi4?si=FWNvGOfQ3frUlGjT,1,Easy
+CSE,0,0,45,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+CSE,0,0,50,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+CSE,0,0,55,Data Structures,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/DDWNjdQsrq4?si=_zVYj0Ref-OR9KHf,0,Easy
+CSE,0,0,60,Data Structures,https://www.aboutmech.com/2016/03/thermodynamics.html,https://youtu.be/ukzFI9rgwfU?si=Q8fIkwWupfXmzXRe,0,Easy
+CSE,0,0,65,ML,https://www.geeksforgeeks.org/machine-learning/,https://youtu.be/ukzFI9rgwfU?si=Q8fIkwWupfXmzXRe,0,Easy
+CSE,0,0,70,Data Structures,https://www.geeksforgeeks.org/machine-learning/,https://www.youtube.com/live/zeSEFsR-jZA?si=6RSz5adyZHQS0K4c,0,Easy
+CSE,0,0,75,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,1,Easy
+CSE,0,0,80,Python,https://www.w3schools.com/python/python_intro.asp,https://youtu.be/UrsmFxEIp5k?si=p77Bc5Qrs2Fr59rv,1,Easy
+CSE,0,0,85,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+CSE,0,0,90,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+CSE,0,2,95,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Hard
+CSE,0,2,5,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,1,Hard
+CSE,0,2,10,ML,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/LKlOH8OLLcw?si=MgbJuR7GmkwMUNdS,1,Hard
+CSE,0,2,15,Computer Architecture,https://www.w3schools.com/html/html5_geolocation.asp,https://youtu.be/cHT-qLnRm0E?si=NMgW_OstrO4fmC82,1,Hard
+CSE,0,2,20,Graphic Design,https://www.udemy.com/graphic_design,https://www.youtube.com/watch?v=3U34ETCU08H,1,Hard
+CSE,0,2,25,Data Structures,https://www.w3schools.com/html/html5_geolocation.asp,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,0,Hard
+CSE,0,2,30,Cryptography,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/bfhcaGDd5tY?si=CRJ2PwFfguS9CSzZ,1,Hard
+CSE,0,2,35,Computer Architecture,https://www.w3schools.com/js/js_syntax.asp,https://youtu.be/TPlqvCg5xJ4?si=ZYRlWavzSt1HvXF9,1,Hard
+CSE,0,2,40,Data Structures,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/Z1crLo7KyH8?si=2CydZFNvY920B-f2,0,Hard
+CSE,0,2,45,Game Development,https://www.geeksforgeeks.org/flowchart-for-basic-machine-learning-models/?ref=lbp,https://youtu.be/tU3NEYe-b2U?si=MNy7sfl5ABHc1SXr,1,Hard
+CSE,0,2,50,Data Structures,https://www.adda247.com/engineering-jobs/ic-engine/,https://youtu.be/Z1crLo7KyH8?si=2CydZFNvY920B-f2,0,Hard
+CSE,0,2,55,Computer Architecture,https://kahedu.edu.in/how-does-mechanical-engineering-drive-innovation-in-renewable-energy-technologies/,https://youtu.be/q_4RehwV5mE?si=mXAbNAG_ZJCu47Ux,1,Hard
+CSE,0,2,60,Software Testing,https://nexflow.com/blog/difference-between-pneumatics-and-hydraulics/,https://youtu.be/-qfEOE4vtxE?si=WaKtynJ05KUqBMYF,1,Hard
+CSE,0,2,65,ML,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/LKlOH8OLLcw?si=MgbJuR7GmkwMUNdS,0,Hard
+CSE,0,2,70,Software Testing,https://www.aboutmech.com/2016/03/thermodynamics.html,https://www.youtube.com/live/3NdEjPxl39s?si=JcPwFSCt5_NGO_N0 8,1,Hard
+CSE,0,2,75,ML,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/cHT-qLnRm0E?si=NMgW_OstrO4fmC82,0,Hard
+CSE,0,2,80,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,1,Hard
+CSE,0,2,85,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Hard
+CSE,0,2,90,AI,https://en.wikipedia.org/wiki/Artificial_intelligence,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,0,Hard
+CSE,0,2,95,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+CSE,0,2,5,ML,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/cHT-qLnRm0E?si=NMgW_OstrO4fmC82,0,Hard
+CSE,0,2,10,ML,https://www.geeksforgeeks.org/flowchart-for-basic-machine-learning-models/?ref=lbp,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,0,Hard
+CSE,0,2,15,Marketing,https://www.w3schools.com/marketing,https://www.youtube.com/watch?v=2IDUQXJA098,1,Hard
+CSE,0,2,20,Python,https://www.w3schools.com/python/python_intro.asp,https://youtu.be/UrsmFxEIp5k?si=p77Bc5Qrs2Fr59rv,1,Hard
+CSE,0,2,25,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+CSE,0,2,30,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Hard
+CSE,0,2,35,Mechanical Engineering,https://www.coursera.org/mechanical_engineering,https://youtu.be/ONQWVNXXN1A,1,Hard
+CSE,0,2,40,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Hard
+CSE,0,2,45,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,1,Hard
+CSE,0,2,50,Data Structures,https://www.w3schools.com/css/,https://youtu.be/wRNinF7YQqQ?si=UsB209SOkSL0Dmhb,0,Hard
+CSE,0,2,55,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+CSE,0,2,60,ML,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/LKlOH8OLLcw?si=MgbJuR7GmkwMUNdS,0,Hard
+CSE,0,2,65,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+CSE,0,2,70,ML,https://www.geeksforgeeks.org/flowchart-for-basic-machine-learning-models/?ref=lbp,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,0,Hard
+CSE,0,2,75,AI,https://en.wikipedia.org/wiki/Artificial_intelligence,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,0,Hard
+CSE,0,1,80,Computer Architecture,https://en.wikipedia.org/wiki/Fluid_mechanics,https://www.youtube.com/watch?v=A74TOX803D0,1,Medium
+CSE,0,1,85,Software Testing,https://en.wikipedia.org/wiki/Power_engineering,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,1,Medium
+CSE,0,1,90,Cryptography,https://www.tutorialspoint.com/power_system_analysis/power_system_analysis_overview.htm,https://youtu.be/TlB_eWDSMt4?si=bz_84Bo_wa6s5aEN,1,Medium
+CSE,0,1,95,Cryptography,https://en.wikipedia.org/wiki/Electronic_engineering,https://youtu.be/ORyi6tTMNqE?si=f9aICh0WN9uUaDOy,1,Medium
+CSE,0,1,5,Data Science,https://www.w3schools.com/data_science,https://youtu.be/K831CS46ZXN,0,Medium
+CSE,0,1,10,Graphic Design,https://www.coursera.org/graphic_design,https://www.youtube.com/watch?v=9RXTU8NPURJ,1,Medium
+CSE,0,1,15,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Medium
+CSE,0,1,20,Software Testing,https://www.jntua.ac.in/gate-online-classes/registration/downloads/material/a159280334379.pdf,https://youtu.be/PFSQRMus_QQ?si=suK5fdzEJQeVyWQ7,1,Medium
+CSE,0,1,25,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Medium
+CSE,0,1,30,Cryptography,https://www.geeksforgeeks.org/python-ways-to-find-length-of-list/,https://youtu.be/ukzFI9rgwfU?si=Q8fIkwWupfXmzXRe,1,Medium
+CSE,0,1,35,Computer Architecture,https://www.geeksforgeeks.org/power-electronics/,https://youtu.be/BPMd9nC_KWo?si=zFoX1KrloHuUjJaM,1,Medium
+CSE,0,1,40,Computer Architecture,https://cloud.google.com/learn/what-is-artificial-intelligence,https://youtu.be/OK_JCtrrv-c?si=Ca5RiZPiVHM2ScdF,1,Medium
+CSE,0,1,45,Data Structures,https://www.geeksforgeeks.org/mern-stack/,https://youtu.be/8CP714_wKVk?si=CA8Xabcs6y6U-EnG,0,Medium
+CSE,0,1,50,Graphic Design,https://www.w3schools.com/graphic_design,https://www.youtube.com/watch?v=XE6ABCE9AH3,1,Medium
+CSE,0,1,55,Computer Architecture,https://www.discoverengineering.org/material-science-an-integral-part-of-mechanical-engineering/,https://youtu.be/CX-mPjgacCE?si=XHOs1NLzEomIHzIL,1,Medium
+CSE,0,1,60,HTML5,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,1,Medium
+CSE,0,1,65,Software Testing,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/KJgsSFOSQv0?si=b4Q0SsItgVCQqWXi,1,Medium
+CSE,0,1,70,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Medium
+CSE,0,1,75,Data Science,https://www.w3schools.com/data_science,https://www.youtube.com/watch?v=BHCXZ14Q9DR,0,Medium
+CSE,0,1,80,AI,https://cloud.google.com/learn/what-is-artificial-intelligence,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,0,Medium
+CSE,0,1,85,Game Development,https://testbook.com/physics/electronic-communication-systems,https://youtu.be/lfmg-EJ8gm4?si=WcV1IKKA6Ev9ryv_,1,Medium
+CSE,0,1,90,Computer Architecture,https://mechanicalc.com/reference/strength-of-materials,https://youtu.be/XKHEtdqhLK8,1,Medium
+CSE,0,1,95,Game Development,https://www.w3schools.com/css/css_rwd_intro.asp,https://www.youtube.com/watch?v=XKHEtdqhLK8,1,Medium
+CSE,0,1,5,AI,https://cloud.google.com/learn/what-is-artificial-intelligence,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,0,Medium
+CSE,0,1,10,Data Structures,https://en.wikipedia.org/wiki/Artificial_intelligence,https://youtu.be/7iOZ0D2NqYA?si=ROa_D8olgbjw5jyf,0,Medium
+CSE,0,1,15,Marketing,https://www.udemy.com/marketing,https://www.youtube.com/watch?v=3H0GMEK7YDG,1,Medium
+CSE,0,1,20,Computer Architecture,https://mechanicalc.com/reference/strength-of-materials,https://youtu.be/OK_JCtrrv-c?si=Ca5RiZPiVHM2ScdF,1,Medium
+CSE,0,1,25,Game Development,https://en.wikipedia.org/wiki/Strength_of_materials,https://youtu.be/n6Ad5TvESKs?si=bsNa0z71NRJMsQXv,1,Medium
+CSE,0,1,30,Game Development,https://www.w3schools.com/html/,https://youtu.be/gfkTfcpWqAY?si=qPdBaCtmbxvJmMvm,1,Medium
+CSE,0,1,35,Data Science,https://www.w3schools.com/data_science,https://www.youtube.com/watch?v=K3IHRK0XF1I,0,Medium
+CSE,0,1,40,Software Testing,https://www.geeksforgeeks.org/python-ways-to-find-length-of-list/,https://youtu.be/og0Utz4DjFs?si=G9FsQqj_p4p69rOg,1,Medium
+CSE,0,1,45,Game Development,https://www.w3schools.com/css/css_rwd_intro.asp,https://youtu.be/DDWNjdQsrq4?si=_zVYj0Ref-OR9KHf,1,Medium
+CSE,0,1,50,Software Testing,https://www.javatpoint.com/c-sharp-tutorial,https://youtu.be/SqcY0GlETPk?si=HCE7ecZk3eNf-AbD,1,Medium
+CSE,0,1,55,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Medium
+CSE,0,1,60,Data Science,https://www.coursera.org/data_science,https://www.youtube.com/watch?v=FICX8H7J91C,0,Medium
+CSE,0,1,65,Data Structures,https://en.wikipedia.org/wiki/Internal_combustion_engine,https://youtu.be/BPMd9nC_KWo?si=zFoX1KrloHuUjJaM,0,Medium
+CSE,0,1,70,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Medium
+CSE,0,1,75,Computer Architecture,https://www.w3schools.com/html/,https://youtu.be/Vd2UJiIPbag?si=qnnoYuXowmL7YKbp,1,Medium
+CSE,0,1,80,Game Development,https://www.w3schools.com/bootstrap5/bootstrap_get_started.php,https://youtu.be/_Ypb9_Ok3W8?si=PylRRt7w_E20qphI,1,Medium
+CSE,0,1,85,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Medium
+CSE,0,1,90,Game Development,https://www.w3schools.com/html/,https://youtu.be/Wy5oY9nINz8?si=F9evRlJ9tM2ysovE,1,Medium
+CSE,0,1,95,Graphic Design,https://www.w3schools.com/graphic_design,https://www.youtube.com/watch?v=BD3OQHCHWI3,1,Medium
+IT,2,0,5,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,2,Easy
+IT,2,0,10,C#,https://learn.microsoft.com/en-us/dotnet/csharp/,https://www.youtube.com/watch?v=GhQdlIFylQ8,1,Easy
+IT,2,0,15,C#,https://learn.microsoft.com/en-us/dotnet/csharp/,https://www.youtube.com/watch?v=GhQdlIFylQ8,1,Easy
+IT,2,0,20,PHP,https://www.w3schools.com/php/php_intro.asp,https://youtu.be/OK_JCtrrv-c?si=Ca5RiZPiVHM2ScdF,1,Easy
+IT,2,0,25,Python,https://www.python.org/about/gettingstarted/,https://www.youtube.com/watch?v=_uQrJ0TkZlc,2,Easy
+IT,2,0,30,PHP,https://www.w3schools.com/php/php_intro.asp,https://youtu.be/OK_JCtrrv-c?si=Ca5RiZPiVHM2ScdF,1,Easy
+IT,2,0,35,C,https://www.learn-c.org/,https://www.youtube.com/watch?v=KJgsSFOSQv0,1,Easy
+IT,2,0,40,C,https://www.learn-c.org/,https://www.youtube.com/watch?v=KJgsSFOSQv0,1,Easy
+IT,2,0,45,Javascript,https://www.w3schools.com/js/js_syntax.asp,https://youtu.be/lfmg-EJ8gm4?si=WcV1IKKA6Ev9ryv_,4,Easy
+IT,2,0,50,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+IT,2,0,55,Cloud Security,https://www.w3schools.com/bootstrap5/bootstrap_get_started.php,https://youtu.be/9ABKT9g1llA?si=UhouNCH9Io9jt7O-,3,Easy
+IT,2,0,60,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+IT,2,0,65,Data Science,https://www.w3schools.com/data_science,https://youtu.be/TJFGCMQFN5H,0,Easy
+IT,2,0,70,Javascript,https://www.w3schools.com/js/js_syntax.asp,https://youtu.be/lfmg-EJ8gm4?si=WcV1IKKA6Ev9ryv_,4,Easy
+IT,2,0,75,Cloud Security,https://study.madeeasy.in/subjects/what-is-power-systems/,https://youtu.be/hlGoQC332VM?si=OoGvG1t3a2hoT-wo,3,Easy
+IT,2,0,80,Finance,https://www.w3schools.com/finance,https://youtu.be/YLOBX85H422,1,Easy
+IT,2,0,85,Blockchain,https://www.w3schools.com/sql/sql_intro.asp,https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C,0,Easy
+IT,2,0,90,AI & ML,https://www.mmmut.ac.in/News_content/12101dep-notice_04242021.pdf,https://youtu.be/tU3NEYe-b2U?si=MNy7sfl5ABHc1SXr,0,Easy
+IT,2,0,95,Cloud Security,https://en.wikipedia.org/wiki/Electromagnetic_field,https://youtu.be/ORyi6tTMNqE?si=f9aICh0WN9uUaDOy,3,Easy
+IT,2,0,5,Big Data,https://www.mmmut.ac.in/News_content/12101dep-notice_04242021.pdf,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,0,Easy
+IT,2,0,10,Mechanical Engineering,https://www.udemy.com/mechanical_engineering,https://www.youtube.com/watch?v=YM2ZVKSOH7U,1,Easy
+IT,2,0,15,C#,https://learn.microsoft.com/en-us/dotnet/csharp/,https://www.youtube.com/watch?v=GhQdlIFylQ8,1,Easy
+IT,2,0,20,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+IT,2,0,25,Data Science,https://www.coursera.org/data_science,https://youtu.be/94MQX0WC8XR,0,Easy
+IT,2,0,30,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+IT,2,0,35,Data Science,https://www.coursera.org/data_science,https://www.youtube.com/watch?v=JE5UJGSCJW9,0,Easy
+IT,2,0,40,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+IT,2,0,45,IoT,https://www.electrical4u.com/electrical-engineering-articles/circuit-theory/,https://youtu.be/ptTpXmjxGTM?si=-uP-yPC7nAkLfrQ9,1,Easy
+IT,2,0,50,Graphic Design,https://www.coursera.org/graphic_design,https://youtu.be/TZ47KXK3T3J,1,Easy
+IT,2,0,55,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+IT,2,0,60,IoT,https://www.electrical4u.com/electrical-engineering-articles/control-system/,https://youtu.be/HcOc7P5BMi4?si=FWNvGOfQ3frUlGjT,1,Easy
+IT,2,0,65,Big Data,https://cloud.google.com/learn/what-is-artificial-intelligence,https://youtu.be/HcOc7P5BMi4?si=FWNvGOfQ3frUlGjT,0,Easy
+IT,2,0,70,Cloud Security,https://krce.ac.in/blog/thermodynamics-and-heat-transfer-core-concepts-of-mechanical-engineering/,https://youtu.be/48SUuk8e55c?si=2aVcZldjJoVpqT70,3,Easy
+IT,2,0,75,IoT,https://www.geeksforgeeks.org/machine-learning/,https://youtu.be/hlGoQC332VM?si=OoGvG1t3a2hoT-wo,1,Easy
+IT,2,0,80,IoT,https://www.geeksforgeeks.org/express-js/,https://youtu.be/HD13eq_Pmp8?si=rOhiMiWVl-GFv6KV,1,Easy
+IT,2,0,85,Blockchain,https://vemu.org/uploads/lecture_notes/01_02_2020_2078314921.pdf,https://www.youtube.com/watch?v=A74TOX803D0,0,Easy
+IT,2,0,90,IoT,https://en.wikipedia.org/wiki/Artificial_intelligence,https://youtu.be/vpAJ0s5S2t0?si=RaDzfqxcV3Mvmxzc,1,Easy
+IT,2,0,95,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,2,Easy
+IT,2,0,5,Big Data,https://www.geeksforgeeks.org/types-of-electric-machines/,https://youtu.be/A0BuHEqDm88?si=JkDh3T3LDT06kD_4,0,Easy
+IT,2,0,10,Python,https://www.python.org/about/gettingstarted/,https://www.youtube.com/watch?v=_uQrJ0TkZlc,2,Easy
+IT,2,2,15,Blockchain,https://www.javatpoint.com/c-sharp-tutorial,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,0,Hard
+IT,2,2,20,Big Data,https://www.geeksforgeeks.org/digital-electronics/,https://youtu.be/pWd2b-F4STw?si=XmCzv38Pp-hRKKQg,0,Hard
+IT,2,2,25,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+IT,2,2,30,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,1,Hard
+IT,2,2,35,Blockchain,https://www.geeksforgeeks.org/power-electronics/,https://youtu.be/LKlOH8OLLcw?si=MgbJuR7GmkwMUNdS,0,Hard
+IT,2,2,40,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+IT,2,2,45,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+IT,2,2,50,Big Data,https://www.slideshare.net/slideshow/artificial-intelligence-in-power-systems-46360765/46360765,https://youtu.be/yyUHQIec83I?si=scc1O2AnXDNryfdv,0,Hard
+IT,2,2,55,IoT,https://www.electrical4u.com/signals-and-systems/,https://youtu.be/SqcY0GlETPk?si=HCE7ecZk3eNf-AbD,1,Hard
+IT,2,2,60,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,1,Hard
+IT,2,2,65,Blockchain,https://www.w3schools.com/js/js_syntax.asp,https://youtu.be/aHjGcKP_7qE?si=0J0nsDY5B12_HfF-,0,Hard
+IT,2,2,70,Cloud Security,https://www.w3schools.com/html/,https://youtu.be/khbOXzEqOg4?si=k_6RInm4-2cFu6Yw,3,Hard
+IT,2,2,75,Big Data,https://www.w3schools.com/react/react_getstarted.asp,https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f,0,Hard
+IT,2,2,80,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+IT,2,2,85,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+IT,2,2,90,Graphic Design,https://www.w3schools.com/graphic_design,https://youtu.be/T0GP4ZSCXR5,1,Hard
+IT,2,2,95,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,1,Hard
+IT,2,2,5,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+IT,2,2,10,Graphic Design,https://www.udemy.com/graphic_design,https://www.youtube.com/watch?v=MCZ49T9RFLF,1,Hard
+IT,2,2,15,Perl,https://www.tutorialspoint.com/perl/perl_introduction.htm,https://youtu.be/WEghIXs8F6c?si=tGocPSUyTJ4caHDX,1,Hard
+IT,2,2,20,SQL,https://www.w3schools.com/sql/,https://www.youtube.com/watch?v=HXV3zeQKqGY,1,Hard
+IT,2,2,25,Perl,https://www.tutorialspoint.com/perl/perl_introduction.htm,https://youtu.be/WEghIXs8F6c?si=tGocPSUyTJ4caHDX,1,Hard
+IT,2,2,30,SQL,https://www.w3schools.com/sql/,https://www.youtube.com/watch?v=HXV3zeQKqGY,1,Hard
+IT,2,2,35,Blockchain,https://www.w3schools.com/java/,https://youtu.be/x5OD2KZXd54?si=aS5TvAb9T0NtkJHf,0,Hard
+IT,2,2,40,Blockchain,https://www.tra-c.com/en/article-2/what-is-mechanical-welding/,https://youtu.be/7H_QH9nipNs?si=-GGy2oxJpd9NMrPL,0,Hard
+IT,2,2,45,Go,https://www.w3schools.com/go/go_introduction.php,https://youtu.be/yyUHQIec83I?si=scc1O2AnXDNryfdv,1,Hard
+IT,2,2,50,Ruby,https://www.tutorialspoint.com/ruby/ruby_overview.htm,https://youtu.be/t_ispmWmdjY?si=YLlcFavg34sDMBkN,1,Hard
+IT,2,2,55,Marketing,https://www.udemy.com/marketing,https://youtu.be/FU4ABI8G4N0,1,Hard
+IT,2,2,60,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+IT,2,2,65,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+IT,2,2,70,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,1,Hard
+IT,2,2,75,Ruby,https://www.tutorialspoint.com/ruby/ruby_overview.htm,https://youtu.be/t_ispmWmdjY?si=YLlcFavg34sDMBkN,1,Hard
+IT,2,2,80,Blockchain,https://www.geeksforgeeks.org/introduction-to-mean-stack/,https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C,0,Hard
+IT,2,2,85,Cloud Security,https://www.geeksforgeeks.org/introduction-to-mean-stack/,https://youtu.be/gfkTfcpWqAY?si=qPdBaCtmbxvJmMvm,3,Hard
+IT,2,2,90,IoT,https://www.geeksforgeeks.org/properties-of-electromagnetic-field/,https://youtu.be/bfhcaGDd5tY?si=CRJ2PwFfguS9CSzZ,1,Hard
+IT,2,2,95,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+IT,2,2,5,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Hard
+IT,2,2,10,Go,https://www.w3schools.com/go/go_introduction.php,https://youtu.be/yyUHQIec83I?si=scc1O2AnXDNryfdv,1,Hard
+IT,2,2,15,Cloud Security,https://www.jntua.ac.in/gate-online-classes/registration/downloads/material/a159280334379.pdf,https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f,3,Hard
+IT,2,1,20,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+IT,2,1,25,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Medium
+IT,2,1,30,NodeJs,https://nodejs.org/en/docs,https://www.youtube.com/watch?v=TlB_eWDSMt4,4,Medium
+IT,2,1,35,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+IT,2,1,40,Mechanical Engineering,https://www.w3schools.com/mechanical_engineering,https://www.youtube.com/watch?v=XAJKW2M2T2Z,1,Medium
+IT,2,1,45,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+IT,2,1,50,MERN,https://www.geeksforgeeks.org/mern-stack/,https://www.youtube.com/watch?v=7CqJlxBYj-M,4,Medium
+IT,2,1,55,Blockchain,https://www.geeksforgeeks.org/types-of-electric-machines/,https://youtu.be/-qfEOE4vtxE?si=WaKtynJ05KUqBMYF,0,Medium
+IT,2,1,60,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+IT,2,1,65,AI & ML,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/VA51cr9MStI?si=WupuLMr-Gx2THUGT,0,Medium
+IT,2,1,70,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Medium
+IT,2,1,75,Cybersecurity,https://www.coursera.org/specializations/intro-cyber-security,https://www.youtube.com/watch?v=inWWhr5tnEA,3,Medium
+IT,2,1,80,AI & ML,https://www.w3schools.com/css/,https://youtu.be/48SUuk8e55c?si=2aVcZldjJoVpqT70,0,Medium
+IT,2,1,85,Big Data,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/7H_QH9nipNs?si=-GGy2oxJpd9NMrPL,0,Medium
+IT,2,1,90,Blockchain,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/CX-mPjgacCE?si=XHOs1NLzEomIHzIL,0,Medium
+IT,2,1,95,AI & ML,https://en.wikipedia.org/wiki/Fluid_mechanics,https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C,0,Medium
+IT,2,1,5,AI & ML,https://www.w3schools.com/php/php_intro.asp,https://youtu.be/TPlqvCg5xJ4?si=ZYRlWavzSt1HvXF9,0,Medium
+IT,2,1,10,Java,https://www.w3schools.com/java/,https://www.youtube.com/watch?v=grEKMHGYyns,1,Medium
+IT,2,1,15,Cloud Security,https://www.nevatio.com/resources/machine-design-engineering,https://youtu.be/eBgsxlwIs9o?si=fDi1oCM4_3dVwpQk,3,Medium
+IT,2,1,20,AI & ML,https://archosengineering.com/electrical-engineering-in-renewable-energy/,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,0,Medium
+IT,2,1,25,Big Data,https://www.nevatio.com/resources/machine-design-engineering,https://youtu.be/44Db1Z59_eo?si=kT4RNwKknapqMpb8,0,Medium
+IT,2,1,30,Big Data,https://www.electrical4u.com/electrical-engineering-articles/circuit-theory/,https://youtu.be/t_ispmWmdjY?si=YLlcFavg34sDMBkN,0,Medium
+IT,2,1,35,IoT,https://www.circuitbread.com/tutorials/introduction-to-control-systems-1.1,https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f,1,Medium
+IT,2,1,40,Blockchain,https://www.w3schools.com/html/html_responsive.asp,https://youtu.be/n6Ad5TvESKs?si=bsNa0z71NRJMsQXv,0,Medium
+IT,2,1,45,React,https://reactjs.org/,https://www.youtube.com/watch?v=bMknfKXIFA8,4,Medium
+IT,2,1,50,Blockchain,https://www.electrical4u.com/electrical-engineering-articles/control-system/,https://youtu.be/WEghIXs8F6c?si=tGocPSUyTJ4caHDX,0,Medium
+IT,2,1,55,MEAN,https://www.geeksforgeeks.org/introduction-to-mean-stack/,https://youtu.be/48SUuk8e55c?si=2aVcZldjJoVpqT70,1,Medium
+IT,2,1,60,Express,https://www.geeksforgeeks.org/express-js/,https://youtu.be/7H_QH9nipNs?si=-GGy2oxJpd9NMrPL,1,Medium
+IT,2,1,65,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+IT,2,1,70,IoT,https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/,https://youtu.be/e_J9lXnU_vs?si=plhPNTbNS2RaFPL5,1,Medium
+IT,2,1,75,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Medium
+IT,2,1,80,Big Data,https://en.wikipedia.org/wiki/Strength_of_materials,https://youtu.be/pWd2b-F4STw?si=XmCzv38Pp-hRKKQg,0,Medium
+IT,2,1,85,MERN,https://www.geeksforgeeks.org/mern-stack/,https://www.youtube.com/watch?v=7CqJlxBYj-M,4,Medium
+IT,2,1,90,React,https://reactjs.org/,https://www.youtube.com/watch?v=bMknfKXIFA8,4,Medium
+IT,2,1,95,Express,https://www.geeksforgeeks.org/express-js/,https://youtu.be/7H_QH9nipNs?si=-GGy2oxJpd9NMrPL,1,Medium
+IT,2,1,5,Cloud Security,https://www.w3schools.com/go/go_introduction.php,https://youtu.be/KJgsSFOSQv0?si=b4Q0SsItgVCQqWXi,3,Medium
+IT,2,1,10,Bootstrap,https://getbootstrap.com/,https://www.youtube.com/watch?v=4sosXZsdy-s,1,Medium
+IT,2,1,15,Cloud Security,https://www.w3schools.com/nodejs/nodejs_get_started.asp,https://youtu.be/q_4RehwV5mE?si=mXAbNAG_ZJCu47Ux,3,Medium
+IT,2,1,20,Blockchain,https://www.geeksforgeeks.org/mern-stack/,https://youtu.be/TlB_eWDSMt4?si=bz_84Bo_wa6s5aEN,0,Medium
+IT,2,1,25,AI & ML,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,0,Medium
+IT,2,1,30,Cloud Security,https://www.w3schools.com/css/,https://youtu.be/cHT-qLnRm0E?si=NMgW_OstrO4fmC82,3,Medium
+IT,2,1,35,Bootstrap,https://getbootstrap.com/,https://www.youtube.com/watch?v=4sosXZsdy-s,1,Medium
+IT,2,1,40,MEAN,https://www.geeksforgeeks.org/introduction-to-mean-stack/,https://youtu.be/48SUuk8e55c?si=2aVcZldjJoVpqT70,1,Medium
+IT,2,1,45,NodeJs,https://nodejs.org/en/docs,https://www.youtube.com/watch?v=TlB_eWDSMt4,4,Medium
+IT,2,0,50,Qlik Sense Basics,https://www.qlik.com,https://youtu.be/qlik_intro,1,Easy
+IT,2,0,55,WordPress Essentials,https://wordpress.org,https://youtu.be/wordpress_basics,1,Easy
+IT,2,2,60,Lucidchart for Business,https://www.lucidchart.com,https://youtu.be/lucidchart_guide,1,Hard
+IT,2,2,65,Advanced AWS Security,https://aws.amazon.com/security,https://youtu.be/aws_security,3,Hard
+IT,2,2,70,Azure DevOps Pipelines,https://azure.microsoft.com/en-us/services/devops/,https://youtu.be/azure_devops,1,Hard
+IT,2,1,75,Data Engineering with Spark,https://spark.apache.org,https://youtu.be/data_engineering_spark,0,Medium
+IT,2,1,80,Kubernetes for DevOps,https://kubernetes.io,https://youtu.be/k8s_devops,1,Medium
+IT,2,1,85,SOC Analyst Advanced Threat Hunting,https://www.sans.org/cyber-security-courses/threat-hunting,https://youtu.be/soc_advanced,1,Medium
+IT,2,0,90,Power BI,15 days of Power BI - Complete Microsoft Power BI Bootcamp | Udemy,https://youtu.be/AuYzsfXKkbM,1,Easy
+IT,2,2,95,Power BI,Power BI Intermediate Course: Beyond the Basics | Udemy,https://youtu.be/n1g3AJ0G58g?si=_DJ5KOrXxyCwFI6r,1,Hard
+IT,2,0,5,Tabelau,Free Tableau Online Course With Certificate For Beginners [2024],https://youtu.be/3GT_TLIeCbE?si=S04lezzL7fDPV18N,1,Easy
+IT,2,2,10,Tabelau,https://www.tableau.com/learn/classroom/desktop-two?utm_source,https://youtu.be/Xr5GwMR9U5I?si=fIxrgnpj-gHNOEz8,1,Hard
+IT,2,1,15,Power BI,https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/?utm_source,https://youtu.be/azaQJ2wJlFM?si=pvU707e4bArskcTm,1,Medium
+IT,2,1,20,Tableau,https://www.tableau.com/learn/classroom/desktop-three?utm_source,https://youtu.be/_iz3ouik3SA?si=9FpneM02-2y2RBNi,1,Medium
+ME,3,2,25,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Hard
+ME,3,1,30,Renewable Energy,https://kahedu.edu.in/how-does-mechanical-engineering-drive-innovation-in-renewable-energy-technologies/,https://youtu.be/tU3NEYe-b2U?si=MNy7sfl5ABHc1SXr,1,Medium
+ME,3,0,35,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+ME,3,2,40,Heat Transfer,https://www.geeksforgeeks.org/mern-stack/,https://youtu.be/TlB_eWDSMt4?si=bz_84Bo_wa6s5aEN,1,Hard
+ME,3,0,45,CAD/CAM,https://study.madeeasy.in/subjects/what-is-power-systems/,https://youtu.be/hlGoQC332VM?si=OoGvG1t3a2hoT-wo,1,Easy
+ME,3,2,50,Materials Science,https://www.discoverengineering.org/material-science-an-integral-part-of-mechanical-engineering/,https://youtu.be/x5OD2KZXd54?si=aS5TvAb9T0NtkJHf,1,Hard
+ME,3,2,55,Machine Design,https://www.nevatio.com/resources/machine-design-engineering,https://youtu.be/BPMd9nC_KWo?si=zFoX1KrloHuUjJaM,1,Hard
+ME,3,1,60,CAD/CAM,https://en.wikipedia.org/wiki/Electromagnetic_field,https://youtu.be/ORyi6tTMNqE?si=f9aICh0WN9uUaDOy,1,Medium
+ME,3,2,65,Welding Technology,https://www.tutorialspoint.com/cprogramming/c_overview.htm,https://youtu.be/RucN1bn_jQs?si=FSepBI5Qx4O33mwG,1,Hard
+ME,3,0,70,Heat Transfer,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,1,Easy
+ME,3,0,75,Theory of Machines,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,1,Easy
+ME,3,2,80,Strength of Materials,https://mechanicalc.com/reference/strength-of-materials,https://youtu.be/8CP714_wKVk?si=CA8Xabcs6y6U-EnG,3,Hard
+ME,3,0,85,Strength of Materials,https://mechanicalc.com/reference/strength-of-materials,https://youtu.be/8CP714_wKVk?si=CA8Xabcs6y6U-EnG,1,Easy
+ME,3,2,90,Heat Transfer,https://vemu.org/uploads/lecture_notes/01_02_2020_2078314921.pdf,https://youtu.be/6c1Oo0Up08E?si=CxxBFTP0MQa_7HM9,1,Hard
+ME,3,1,95,Mechanical Engineering,https://www.w3schools.com/mechanical_engineering,https://www.youtube.com/watch?v=YBADOOODGOV,1,Medium
+ME,3,1,5,Hydraulics and Pneumatics,https://nexflow.com/blog/difference-between-pneumatics-and-hydraulics/,https://youtu.be/tw2MBRxSZMg?si=nebnTVG1TkK0RRtf,1,Medium
+ME,3,0,10,Graphic Design,https://www.w3schools.com/graphic_design,https://www.youtube.com/watch?v=W2W7PV3TZQ2,1,Easy
+ME,3,2,15,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Hard
+ME,3,0,20,Mechanical Engineering,https://www.w3schools.com/mechanical_engineering,https://www.youtube.com/watch?v=TPRJYAW5WZG,1,Easy
+ME,3,1,25,Hydraulics and Pneumatics,https://nexflow.com/blog/difference-between-pneumatics-and-hydraulics/,https://youtu.be/tw2MBRxSZMg?si=nebnTVG1TkK0RRtf,0,Medium
+ME,3,0,30,Kinematics,https://www.w3schools.com/css/,https://youtu.be/cHT-qLnRm0E?si=NMgW_OstrO4fmC82,1,Easy
+ME,3,0,35,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+ME,3,0,40,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+ME,3,2,45,Kinematics,https://nexflow.com/blog/difference-between-pneumatics-and-hydraulics/,https://youtu.be/Z1crLo7KyH8?si=2CydZFNvY920B-f2,1,Hard
+ME,3,1,50,Robotics,https://www.w3schools.com/html/,https://youtu.be/vpAJ0s5S2t0?si=RaDzfqxcV3Mvmxzc,1,Medium
+ME,3,1,55,Robotics,https://www.geeksforgeeks.org/express-js/,https://youtu.be/Vd2UJiIPbag?si=qnnoYuXowmL7YKbp,1,Medium
+ME,3,1,60,Hydraulics and Pneumatics,https://nexflow.com/blog/difference-between-pneumatics-and-hydraulics/,https://youtu.be/tw2MBRxSZMg?si=nebnTVG1TkK0RRtf,1,Medium
+ME,3,1,65,CAD/CAM,https://krce.ac.in/blog/thermodynamics-and-heat-transfer-core-concepts-of-mechanical-engineering/,https://youtu.be/RucN1bn_jQs?si=FSepBI5Qx4O33mwG,1,Medium
+ME,3,1,70,Renewable Energy,https://kahedu.edu.in/how-does-mechanical-engineering-drive-innovation-in-renewable-energy-technologies/,https://youtu.be/tU3NEYe-b2U?si=MNy7sfl5ABHc1SXr,1,Medium
+ME,3,0,75,Mechanical Engineering,https://www.udemy.com/mechanical_engineering,https://www.youtube.com/watch?v=RP1V5U46E2S,1,Easy
+ME,3,2,80,Materials Science,https://www.discoverengineering.org/material-science-an-integral-part-of-mechanical-engineering/,https://youtu.be/x5OD2KZXd54?si=aS5TvAb9T0NtkJHf,1,Hard
+ME,3,2,85,Machine Design,https://www.nevatio.com/resources/machine-design-engineering,https://youtu.be/BPMd9nC_KWo?si=zFoX1KrloHuUjJaM,1,Hard
+ME,3,2,90,Theory of Machines,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,0,Hard
+ME,3,0,95,Heat Transfer,https://www.adda247.com/engineering-jobs/ic-engine/,https://youtu.be/A0BuHEqDm88?si=JkDh3T3LDT06kD_4,3,Easy
+ME,3,0,5,Theory of Machines,https://rskr.irimee.in/sites/default/files/Theory%20of%20Machine.pdf,https://youtu.be/f9ia5sURD9s?si=YLS9-lhykqBvtN2d,1,Easy
+ME,3,0,10,Heat Transfer,https://www.adda247.com/engineering-jobs/ic-engine/,https://youtu.be/A0BuHEqDm88?si=JkDh3T3LDT06kD_4,1,Easy
+ME,3,1,15,Welding Technology,https://www.iqsdirectory.com/articles/hydraulics/difference-between-hydraulics-and-pneumatics.html,https://youtu.be/og0Utz4DjFs?si=G9FsQqQshZVamWfx,1,Medium
+ME,3,0,20,Robotics,https://www.w3schools.com/react/react_getstarted.asp,https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f,1,Easy
+ME,3,0,25,Kinematics,https://study.madeeasy.in/subjects/what-is-power-systems/,https://youtu.be/ptTpXmjxGTM?si=-uP-yPC7nAkLfrQ9,1,Easy
+ME,3,0,30,Strength of Materials,https://mechanicalc.com/reference/strength-of-materials,https://youtu.be/8CP714_wKVk?si=CA8Xabcs6y6U-EnG,1,Easy
+ME,3,2,35,Welding Technology,https://s3da-design.com/everything-you-need-to-know-about-instrumentation-and-electrical-engineering-services/,https://youtu.be/Y0xGmQKcvwE?si=biXaFu5wpp5tV4Xv,1,Hard
+ME,3,1,40,Kinematics,https://www.discoverengineering.org/material-science-an-integral-part-of-mechanical-engineering/,https://youtu.be/t_ispmWmdjY?si=YLlcFavg34sDMBkN,1,Medium
+ME,3,0,45,Welding Technology,https://www.tutorialspoint.com/perl/perl_introduction.htm,https://youtu.be/45yUvnMvTUo?si=sXH9yV-raYBcN9jB,1,Easy
+ME,3,1,50,Kinematics,https://www.w3schools.com/php/php_intro.asp,https://www.youtube.com/live/3NdEjPxl39s?si=JcPwFSCt5_NGO_N0,1,Medium
+ME,3,1,55,Fluid Mechanics,https://en.wikipedia.org/wiki/Fluid_mechanics,https://youtu.be/A0BuHEqDm88?si=JkDh3T3LDT06kD_4,1,Medium
+ME,3,1,60,Thermodynamics,https://www.aboutmech.com/2016/03/thermodynamics.html,https://youtu.be/iUEjQQtrT50?si=TRrHQl45TDCQDPDI,1,Medium
+ME,3,2,65,Welding Technology,https://www.jntua.ac.in/gate-online-classes/registration/downloads/material/a159280334379.pdf,https://youtu.be/44Db1Z59_eo?si=kT4RNwKknapqMpb8,1,Hard
+ME,3,2,70,IC Engines,https://en.wikipedia.org/wiki/Internal_combustion_engine,https://youtu.be/RucN1bn_jQs?si=FSepBI5Qx4O33mwG,1,Hard
+ME,3,2,75,Robotics,https://getbootstrap.com/docs/5.0/getting-started/introduction/,https://youtu.be/HD13eq_Pmp8?si=rOhiMiWVl-GFv6KV,1,Hard
+ME,3,2,80,Heat Transfer,https://www.geeksforgeeks.org/introduction-to-mean-stack/,https://youtu.be/gfkTfcpWqAY?si=qPdBaCtmbxvJmMvm,1,Hard
+ME,3,0,85,Robotics,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/h6yP0hgVXU8?si=mQwH-d83Jwd6tqFS,1,Easy
+ME,3,1,90,CAD/CAM,https://www.tutorialspoint.com/cprogramming/c_overview.htm,https://youtu.be/G-6QxVNBG4g?si=4xol4vuDigBa0V1E,1,Medium
+ME,3,0,95,Dynamics of Machines,https://vemu.org/uploads/lecture_notes/01_02_2020_2078314921.pdf,https://youtu.be/TPlqvCg5xJ4?si=ZYRlWavzSt1HvXF9,1,Easy
+ME,3,0,5,Strength of Materials,https://en.wikipedia.org/wiki/Strength_of_materials,https://youtu.be/DDWNjdQsrq4?si=_zVYj0Ref-OR9KHf,1,Easy
+ME,3,1,10,Fluid Mechanics,https://en.wikipedia.org/wiki/Fluid_mechanics,https://youtu.be/A0BuHEqDm88?si=JkDh3T3LDT06kD_4,1,Medium
+ME,3,2,15,Kinematics,https://www.w3schools.com/css/,https://youtu.be/48SUuk8e55c?si=2aVcZldjJoVpqT70,1,Hard
+ME,3,2,20,IC Engines,https://en.wikipedia.org/wiki/Internal_combustion_engine,https://youtu.be/RucN1bn_jQs?si=FSepBI5Qx4O33mwG,1,Hard
+ME,3,0,25,CAD/CAM,https://www.nevatio.com/resources/machine-design-engineering,https://youtu.be/eBgsxlwIs9o?si=fDi1oCM4_3dVwpQk,1,Easy
+ME,3,1,30,Kinematics,https://en.wikipedia.org/wiki/Electronic_engineering,https://youtu.be/9ABKT9g1llA?si=UhouNCH9Io9jt7O-,1,Medium
+ME,3,0,35,Strength of Materials,https://en.wikipedia.org/wiki/Strength_of_materials,https://youtu.be/DDWNjdQsrq4?si=_zVYj0Ref-OR9KHf,1,Easy
+ME,3,0,40,Welding Technology,https://www.w3schools.com/java/,https://youtu.be/x5OD2KZXd54?si=aS5TvAb9T0NtkJHf,1,Easy
+ME,3,0,45,Dynamics of Machines,https://vemu.org/uploads/lecture_notes/01_02_2020_2078314921.pdf,https://youtu.be/TPlqvCg5xJ4?si=ZYRlWavzSt1HvXF9,1,Easy
+ME,3,1,50,Thermodynamics,https://www.aboutmech.com/2016/03/thermodynamics.html,https://youtu.be/iUEjQQtrT50?si=TRrHQl45TDCQDPDI,1,Medium
+ME,3,0,55,Mechanical Engineering,https://www.w3schools.com/mechanical_engineering,https://youtu.be/4WF9X2QEXN4,1,Easy
+ME,3,1,60,Graphic Design,https://www.w3schools.com/graphic_design,https://youtu.be/VC3DH6VQ3ZG,1,Medium
+ME,3,0,65,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+ME,3,2,70,Marketing,https://www.w3schools.com/marketing,https://www.youtube.com/watch?v=WB5YJ6VX1G8,1,Hard
+ME,3,0,75,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Easy
+ME,3,1,80,Heat Transfer,https://en.wikipedia.org/wiki/Electromagnetic_field,https://youtu.be/_Ypb9_Ok3W8?si=PylRRt7w_E20qphI,1,Medium
+ME,3,0,85,Kinematics,https://www.mmmut.ac.in/News_content/12101dep-notice_04242021.pdf,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,1,Easy
+ME,3,1,90,CAD/CAM,https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp,https://youtu.be/G-6QxVNBG4g?si=4xol4vuDigBa0V1E,1,Medium
+ME,3,0,95,Welding Technology,https://www.tutorialspoint.com/ruby/ruby_overview.htm,https://youtu.be/LKlOH8OLLcw?si=MgbJuR7GmkwMUNdS,1,Easy
+ME,3,0,5,CAD/CAM,https://www.geeksforgeeks.org/communication-systems/,https://youtu.be/45yUvnMvTUo?si=sXH9yV-raYBcN9jB,1,Easy
+ME,3,2,10,Welding Technology,https://www.jntua.ac.in/gate-online-classes/registration/downloads/material/a159280334379.pdf,https://youtu.be/44Db1Z59_eo?si=kT4RNwKknapqMpb8,1,Hard
+ME,3,2,15,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+ME,3,0,20,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+ME,3,1,25,Marketing,https://www.coursera.org/marketing,https://youtu.be/LT2948INZUL,1,Medium
+ME,3,0,30,CSS,https://www.w3schools.com/css/,https://www.youtube.com/watch?v=1Rs2ND1ryYc,4,Easy
+ME,3,0,35,Kinematics,https://academic.oup.com/ce/article/7/6/1199/7425141,https://youtu.be/iUEjQQtrT50?si=TRrHQl45TDCQDPDI,1,Easy
+ME,3,0,40,Kinematics,https://academic.oup.com/ce/article/7/6/1199/7425141,https://youtu.be/iUEjQQtrT50?si=TRrHQl45TDCQDPDI,3,Easy
+ME,3,0,45,CAD/CAM,https://www.w3schools.com/nodejs/nodejs_get_started.asp,https://www.youtube.com/live/zeSEFsR-jZA?si=6RSz5adyZHQS0K4c,1,Easy
+ME,3,1,50,Physics,https://www.udemy.com/physics,https://youtu.be/FM3N43TNN9A,1,Medium
+ME,3,1,55,Mechanical Engineering,https://www.coursera.org/mechanical_engineering,https://youtu.be/T5M0CDC6N5D,1,Medium
+ME,3,0,60,Welding Technology,https://www.w3schools.com/html/html_responsive.asp,https://youtu.be/PmBqB-4hgW4?si=Bpt-eXSXcBpVkwbY,1,Easy
+ME,3,1,65,Thermodynamics,https://krce.ac.in/blog/thermodynamics-and-heat-transfer-core-concepts-of-mechanical-engineering/,https://youtu.be/Z1crLo7KyH8?si=2CydZFNvY920B-f2,1,Medium
+ME,3,2,70,Heat Transfer,https://www.tra-c.com/en/article-2/what-is-mechanical-welding/,https://youtu.be/yyUHQIec83I?si=scc1O2AnXDNryfdv,1,Hard
+ME,3,2,75,Finance,https://www.coursera.org/finance,https://www.youtube.com/watch?v=MSFV3GC2X22,1,Hard
+ME,3,0,80,Machine Learning,https://www.coursera.org/learn/machine-learning,https://www.youtube.com/watch?v=Gv9_4yMHFhI,1,Easy
+ME,3,1,85,Heat Transfer,https://getbootstrap.com/docs/5.0/getting-started/introduction/,https://youtu.be/tw2MBRxSZMg?si=nebnTVG1TkK0RRtf,1,Medium
+ME,3,0,90,Welding Technology,https://archosengineering.com/electrical-engineering-in-renewable-energy/,https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00,1,Easy
+ME,3,0,95,Manufacturing Process,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/UY48U06KASY,1,Easy
+ME,3,0,5,Dynamics of Machines,https://www.mmmut.ac.in/News_content/12101dep-notice_04242021.pdf,https://youtu.be/n6Ad5TvESKs?si=bsNa0z71NRJMsQXv,1,Easy
+ME,3,1,10,Physics,https://www.coursera.org/physics,https://youtu.be/UY48U06KASY,1,Medium
+ME,3,1,15,Thermodynamics,https://krce.ac.in/blog/thermodynamics-and-heat-transfer-core-concepts-of-mechanical-engineering/,https://youtu.be/Z1crLo7KyH8?si=2CydZFNvY920B-f2,1,Medium
+ME,3,0,20,Finance,https://www.udemy.com/finance,https://www.youtube.com/watch?v=FKI5VPUFDAT,1,Easy
+ME,3,0,25,Kinematics,https://www.w3schools.com/go/go_introduction.php,https://youtu.be/tw2MBRxSZMg?si=nebnTVG1TkK0RRtf,1,Easy
+ME,3,0,30,Physics,https://www.udemy.com/physics,https://www.youtube.com/watch?v=GDD23IZ2E7W,1,Easy
+ME,3,0,35,Finance,https://www.w3schools.com/finance,https://www.youtube.com/watch?v=NW30A96RCUB,1,Easy
+ME,3,2,40,IC Engines,https://www.adda247.com/engineering-jobs/ic-engine/,https://youtu.be/G-6QxVNBG4g?si=4xol4vuDigBa0V1E,1,Hard
+ME,3,2,45,Welding Technology,https://www.tra-c.com/en/article-2/what-is-mechanical-welding/,https://youtu.be/CX-mPjgacCE?si=XHOs1NLzEomIHzIL,1,Hard
+ME,3,1,50,Welding Technology,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/VA51cr9MStI?si=WupuLMr-Gx2THUGT,1,Medium
+ME,3,1,55,Mechanical Engineering,https://www.w3schools.com/mechanical_engineering,https://www.youtube.com/watch?v=MKXNVPL8XC2,1,Medium
+ME,3,1,60,Graphic Design,https://www.w3schools.com/graphic_design,https://www.youtube.com/watch?v=M0HSOZQ648T,1,Medium
+ME,3,1,65,Hydraulics and Pneumatics,https://www.iqsdirectory.com/articles/hydraulics/difference-between-hydraulics-and-pneumatics.html,https://youtu.be/bfhcaGDd5tY?si=CRJ2PwFfguS9CSzZ,1,Medium
+ME,3,0,70,Kinematics,https://www.geeksforgeeks.org/properties-of-electromagnetic-field/,https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl,1,Easy
+ME,3,2,75,HTML,https://www.w3schools.com/html/,https://www.youtube.com/watch?v=pQN-pnXPaVg,4,Hard
+ME,3,1,80,Physics,https://www.udemy.com/physics,https://youtu.be/LMV46C9FD57,1,Medium
+ME,3,0,85,Robotics,https://en.wikipedia.org/wiki/Strength_of_materials,https://youtu.be/pWd2b-F4STw?si=XmCzv38Pp-hRKKQg,1,Easy
+ME,3,2,90,Marketing,https://www.w3schools.com/marketing,https://youtu.be/PZFAWUM33TZ,1,Hard
+ME,3,0,95,Manufacturing Process,https://www.synopsys.com/glossary/what-are-power-electronics.html,https://youtu.be/tU3NEYe-b2U?si=MNy7sfl5ABHc1SXr,1,Easy
+ME,3,0,5,Mechanical Engineering,https://www.coursera.org/mechanical_engineering,https://youtu.be/0FWYRWMKVXO,1,Easy
+ME,3,2,10,IC Engines,https://www.adda247.com/engineering-jobs/ic-engine/,https://youtu.be/G-6QxVNBG4g?si=4xol4vuDigBa0V1E,1,Hard
+ME,3,2,15,Robotics,https://www.w3schools.com/go/go_introduction.php,https://youtu.be/KJgsSFOSQv0?si=b4Q0SsItgVCQqWXi,1,Hard
+ME,3,0,20,Heat Transfer,https://www.mmmut.ac.in/News_content/12101dep-notice_04242021.pdf,https://youtu.be/tU3NEYe-b2U?si=MNy7sfl5ABHc1SXr,1,Easy
+ME,3,2,25,Welding Technology,https://www.tra-c.com/en/article-2/what-is-mechanical-welding/,https://youtu.be/CX-mPjgacCE?si=XHOs1NLzEomIHzIL,1,Hard
+ME,3,0,30,Dynamics of Machines,https://www.mmmut.ac.in/News_content/12101dep-notice_04242021.pdf,https://youtu.be/n6Ad5TvESKs?si=bsNa0z71NRJMsQXv,1,Easy
+ME,3,0,35,Physics,https://www.coursera.org/physics,https://youtu.be/YEM1NTXCI6F,1,Easy
+ME,3,2,40,Finance,https://www.coursera.org/finance,https://www.youtube.com/watch?v=TF61R0CM6I0,1,Hard
+ME,3,1,45,Hydraulics and Pneumatics,https://www.iqsdirectory.com/articles/hydraulics/difference-between-hydraulics-and-pneumatics.html,https://youtu.be/bfhcaGDd5tY?si=CRJ2PwFfguS9CSzZ,1,Medium
+ME,3,0,50,Mechanical Engineering,https://www.coursera.org/mechanical_engineering,https://youtu.be/6EEFU3JIGL1,1,Easy
+ME,3,1,55,Robotics,https://www.w3schools.com/html/,https://youtu.be/44Db1Z59_eo?si=kT4RNwKknapqMpb8,1,Medium
+ME,3,0,60,Welding Technology,https://en.wikipedia.org/wiki/Power_engineering,https://youtu.be/PmBqB-4hgW4?si=Bpt-eXSXcBpVkwbY,1,Easy
+ME,3,1,65,Robotics,https://en.wikipedia.org/wiki/Internal_combustion_engine,https://youtu.be/YmKmS9bpMqM?si=_W36JAAVt-lRDHYt,1,Medium
+ME,3,2,70,Heat Transfer,https://www.w3schools.com/html/html_scripts.asp,https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C,1,Hard
+ME,3,0,90,CAD/CAM,https://www.tutorialspoint.com/perl/perl_introduction.htm,https://youtu.be/ukzFI9rgwfU?si=Q8fIkwWupfXmzXRe,1,Easy
+ME,3,0,95,CAD/CAM,https://www.w3schools.com/css/,https://youtu.be/PFSQRMus_QQ?si=suK5fdzEJQeVyWQ7,1,Easy
+ECE,1,1,5,Power Electronics and Drives,https://www.coursera.org/learn/power-electronics-and-drives,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S23dcI,1,Medium
+ECE,1,1,50,Analog and Digital Electronics,https://www.coursera.org/learn/analog-and-digital-electronics,https://youtu.be/2xXErGeeb_Q?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&t=4,1,Medium
+ECE,1,1,85,Optical Fiber Communication,https://www.coursera.org/learn/optical-fiber-communication,https://youtube.com/playlist?list=PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb&si=o1WJHMjU_E_S25dcI,1,Medium
