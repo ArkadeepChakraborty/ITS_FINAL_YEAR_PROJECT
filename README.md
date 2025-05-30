@@ -5,10 +5,9 @@ This is Intelligent Tutorial System. this is a smart e-tutor who teaches his stu
 
 •	For the bankend we use Node.js to create robust APIs to handle user requests and interactions. In Database I used MongoDB Cluster for scalable and secure data storage. Mongoose for managing data schemas and interactions with the database. The aim is to provide a seamless platform for users to register as Students and can get help in their path of learning.
 
-•	When the assessment result comes to the Python Backend, it calculates the right question’s percentage of the user based on the different level of questions (Ex: Easy, Medium, Hard). Then compare it with the Json (JavaScript Object Notation) file’s percentage data and gave the suggestions from that based on the certain criteria. Then the suggestions forwarded to the website again.  
+•	When the assessment result comes to the Python Backend, it calculates the right question’s percentage of the user based on the different level of questions (Ex: Easy, Medium, Hard) by XGBoost Algorithm. Then the algorithm gave me the best suggestions from the CSV file. Then the suggestions forwarded to the website again.  
 
 •	Then the coming output suggestions was shown to the user in a proper format to the website.
 
-We still working on it now. Many improvements and Updates need to be done for its betterment.
 
 Skills: EJS(Embedded Javascript),Css(Cascading Style Sheets),Node JS,Postman API,Django,JSON(JavaScript Object Notation).
