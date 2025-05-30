@@ -2,7 +2,7 @@ require('dotenv').config();  // Make sure dotenv is loaded at the very top
 const mongoose = require('mongoose');
 
 // Temporarily hardcode the MongoDB URI for testing
-const uri = 'mongodb+srv://arkadeepchakra2003:ITSPROJECT@cluster0.fqcyf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const uri = 'YOUR MONGODB URL';
 
 const connectDB = async () => {
     try {
