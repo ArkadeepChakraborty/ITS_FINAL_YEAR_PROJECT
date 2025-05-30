@@ -1,0 +1,257 @@
+<!-- <pre><%= JSON.stringify(suggestionData, null, 2) %></pre> -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Report Card</title>
+    <link rel=" stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+        integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding: 20px;
+            background-color: #f1f3f6;
+        }
+
+        .report-card {
+            border: 1px solid #000;
+            padding: 20px;
+            background-color: #fff;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .report-card h4 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #fff;
+            margin-bottom: 20px;
+        }
+
+        .card-header {
+            background-color: #f8f9fa;
+            padding: 15px;
+            font-weight: bold;
+        }
+
+        .card-body {
+            padding: 15px;
+        }
+
+        .card-footer {
+            background-color: #f8f9fa;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .card-footer a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .card-footer a:hover {
+            text-decoration: underline;
+        }
+
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+            margin-bottom: 10px;
+            background-color: #000;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .list-group-item {
+            padding: 0;
+        }
+
+        /* Responsive Layout */
+        @media (max-width: 768px) {
+            .card-columns {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 1.5rem;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .card-columns {
+                display: grid;
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+        }
+
+        .navbar {
+            display: flex;
+            justify-content: flex-end;
+            gap: 15px;
+            margin-bottom: 30px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-right: 10%;
+            margin-top: 1%;
+        }
+
+        .navbar a {
+            text-decoration: none;
+            background-color: #4e67e8;
+            color: white;
+            padding: 10px 18px;
+            border-radius: 6px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .navbar a:hover {
+            background-color: #008218;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="navbar">
+        <a href="/profile"><i class="fa-solid fa-user"></i> Profile</a>
+        <a href="/logout"><i class="fa-solid fa-right-from-bracket"></i> Logout</a>
+    </div>
+    <div class="report-card">
+        <h4><b>Your Report Card</b></h4>
+        <hr>
+
+        <div class="mb-3">
+            <b>Stream: </b> <label class="form-label">
+                <%= suggestionData.user_level_sheet.Stream %>
+            </label>
+        </div>
+
+        <div class="mb-3">
+            <b>Total No of Questions: </b> <label class="form-label">
+                <%= suggestionData.user_level_sheet.total_question %>
+            </label>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="mb-3">
+                    <b>Right Answer:</b> <label class="form-label">
+                        <%= suggestionData.user_level_sheet.total_right %>
+                    </label>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="mb-3">
+                    <b>Wrong Answer:</b> <label class="form-label">
+                        <%= suggestionData.user_level_sheet.total_wrong %>
+                    </label>
+                </div>
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label"><b>Questions Level You Answered(Right):</b></label>
+            <div class="row">
+                <div class="col-md-4">
+                    Easy: <label for="easy" class="form-label">
+                        <%= suggestionData.user_level_sheet.easy.right %>
+                    </label>
+                </div>
+                <div class="col-md-4">
+                    Medium: <label for="medium" class="form-label">
+                        <%= suggestionData.user_level_sheet.medium.right %>
+                    </label>
+                </div>
+                <div class="col-md-4">
+                    Hard: <label for="hard" class="form-label">
+                        <%= suggestionData.user_level_sheet.hard.right %>
+                    </label>
+                </div>
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <hr>
+            <label class="form-label"><b>Congratulations!!</b> You Have Unlocked Our Suggestion List:</label>
+        </div>
+
+        <!-- Suggested Courses Section (Card View) -->
+        <div class="row card-columns">
+            <% if (suggestionData && Array.isArray(suggestionData.suggestions)) { %>
+                <% suggestionData.suggestions.forEach((suggestion)=> { %>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-header">
+                                <h5>Difficulty: <%= suggestion.Difficulty %>
+                                </h5>
+                            </div>
+                            <div class="card-body">
+                                <% const course=suggestion.Course; %>
+                                    <ul class="list-unstyled">
+                                        <li>
+                                            <h6 class="card-title">Suggested Course</h6>
+                                            <div class="video-container">
+                                                <% const youtubeUrl=course.VideoLink; const
+                                                    youtubeRegex=/(?:youtube\.com\/(?:[^\/\n\s]+\/\S+\/|(?:v|e(?:mbed)?)\/?)([\w-]+))(?:[?&][^#\n]*)?|(?:youtu\.be\/)([\w-]+)/;
+                                                    const matches=youtubeUrl.match(youtubeRegex); const videoId=matches
+                                                    ? matches[1] || matches[2] : '' ; %>
+                                                    <iframe src="https://www.youtube.com/embed/<%= videoId %>"
+                                                        frameborder="0"
+                                                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                                        allowfullscreen>
+                                                    </iframe>
+
+                                            </div>
+                                            <div class="card-footer">
+                                                Course Name: <b>
+                                                    <%= course.Name %>
+                                                </b>
+                                            </div>
+                                            <div class="card-footer">
+                                                <a href="<%= course.Link %>" target="_blank">Go to Website</a>
+                                            </div>
+                                            <div class="card-footer">
+                                                <a href="<%= course.VideoLink %>" target="_blank">Watch Video</a>
+                                            </div>
+                                        </li>
+                                    </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <% }) %>
+
+                        <% } else { %>
+                            <p>No suggestions available.</p>
+                            <% } %>
+
+        </div>
+
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
