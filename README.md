@@ -10,4 +10,4 @@ This is Intelligent Tutorial System. this is a smart e-tutor who teaches his stu
 •	Then the coming output suggestions was shown to the user in a proper format to the website.
 
 
-Skills: EJS(Embedded Javascript),Css(Cascading Style Sheets),Node JS,Postman API,Django,JSON(JavaScript Object Notation).
+Skills: EJS(Embedded Javascript),Css(Cascading Style Sheets),Node JS,Postman API,Django,ML Algorithms.
