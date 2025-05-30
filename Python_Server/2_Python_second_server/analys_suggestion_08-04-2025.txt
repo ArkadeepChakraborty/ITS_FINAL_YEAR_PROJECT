@@ -1,0 +1,100 @@
+import pandas as pd
+import json
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.preprocessing import LabelEncoder
+import numpy as np
+
+def train_model(csv_file):
+    # Load dataset
+    df = pd.read_csv(csv_file)
+
+    # Print column names to check if they exist
+    print("Columns in CSV:", df.columns)
+
+    # Encode categorical features
+    le_difficulty = LabelEncoder()
+    le_stream = LabelEncoder()
+ 
+    df['Difficulty'] = le_difficulty.fit_transform(df['Difficulty'])
+    df['Stream'] = le_stream.fit_transform(df['Stream'])
+
+    # ✅ Convert 'Percentage' column: Remove '%' and convert to float
+    df['Percentage'] = df['Percentage'].astype(str).str.rstrip('%').astype(float)
+
+    # Prepare features and target
+    X = df[['Stream', 'Difficulty', 'Percentage']]
+    y = df.index  # Unique index for each course suggestion
+
+    # Train Random Forest model
+    model = RandomForestClassifier(n_estimators=100, random_state=42)
+    model.fit(X, y)
+
+    return model, le_difficulty, le_stream, df
+
+def calculate_percentages(user_level_sheet):
+    """
+    Calculate the percentage of correct answers in each difficulty level.
+    """
+    percentages = {}
+    
+    for level in ['easy', 'medium', 'hard']:
+        total = user_level_sheet.get(level, {}).get('total_question', 0)
+        right = user_level_sheet.get(level, {}).get('right', 0)
+        
+        # Calculate percentage (avoid division by zero)
+        percentages[level] = (right / total * 100) if total > 0 else 0
+    
+    return percentages
+
+def get_suggestions(user_level_sheet, model, le_difficulty, le_stream, df):
+    # Get calculated percentages for each difficulty level
+    percentages = calculate_percentages(user_level_sheet)
+
+    stream = user_level_sheet.get('Stream', None)
+    if stream is None:
+        return {"error": "Stream not provided"}
+
+    try:
+        encoded_stream = le_stream.transform([stream])[0]  # Encode stream
+    except ValueError:
+        return {"error": f"Stream '{stream}' not found in the training data"}
+
+    suggestions = []
+    
+    for difficulty, score in percentages.items():
+        try:
+            encoded_difficulty = le_difficulty.transform([difficulty.capitalize()])[0]
+        except ValueError:
+            return {"error": f"Difficulty '{difficulty}' not found in training data"}
+        
+        # Prepare input for prediction
+        prediction_input = pd.DataFrame([[encoded_stream, encoded_difficulty, score]], 
+                                        columns=['Stream', 'Difficulty', 'Percentage'])
+        
+        # Get predicted index
+        pred_index = model.predict(prediction_input)[0]
+        
+        # Ensure valid index
+        if pred_index >= len(df):
+            continue
+        
+        # Extract course data
+        course_name = df.iloc[pred_index]['CourseName']
+        course_link = df.iloc[pred_index]['CourseLink']
+        course_video_link = df.iloc[pred_index]['CourseVideoLink']
+        
+        suggestions.append({
+            "Difficulty": difficulty.capitalize(),
+            "Course": {
+                "Name": course_name,
+                "Link": course_link,
+                "VideoLink": course_video_link
+            }
+        })
+    
+    print("Generated Suggestions:", suggestions)  # ✅ Print debug information
+    
+    return suggestions
+
+# Load the trained model
+model, le_difficulty, le_stream, df = train_model('ABC_modified.csv')
